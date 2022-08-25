@@ -19,7 +19,7 @@ If you post anything inappropriate your channel will be removed, and you will be
 Please send `"Dog" (AFriendlyPug#7901)`via Discord the following items when requesting a Modding queue:
 
 1. A link to your [ScoreSaber](https://scoresaber.com) account, if it exists.
-2. Two [BeatSaver](https://beatsaver.com/) links or two map files. Maps must be serious and have reasonable effort put in.
+2. Two map links or two map files. Maps must be serious and have reasonable effort put in.
 > We expect at least basic understanding and use of timing, consistency, and correct use of rhythm choices.
 
 - Response times can range from 1-5 days.
