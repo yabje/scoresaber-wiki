@@ -4,24 +4,9 @@ import { mediumZoomPlugin } from '@vuepress/plugin-medium-zoom';
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components';
 import { path } from '@vuepress/utils';
 import { resolve } from 'path';
-import { defaultTheme, defineUserConfig, type SidebarConfigArray } from 'vuepress';
+import { defaultTheme, defineUserConfig } from 'vuepress';
 
 const isProd = process.env.NODE_ENV === 'production';
-
-// const generateSidebar: (link: string, title: string, routes: string[], collapsible?: boolean) => SidebarConfigArray = (
-//    link,
-//    title,
-//    routes,
-//    collapsible = false
-// ) => [
-//    {
-//       text: title,
-//       link,
-//       collapsible,
-//       children: [link, ...routes.map((r) => `${link}${r}.md`)],
-//    },
-// ];
-
 export default defineUserConfig({
    title: 'ScoreSaber Wiki',
 
