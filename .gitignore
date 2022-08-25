@@ -1,0 +1,37 @@
+'node_modules' 
+'.temp' 
+'.cache' 
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# VSCode
+.vscode
+
+# Compiled Vuepress Files
+wiki/.vuepress/dist
+
+# Temp files for dev build
+.temp/
+wiki/.vuepress/.cache
+wiki/.vuepress/.temp
+
+# Visual Studio-created directory for... something?
+/.vs
