@@ -58,3 +58,4 @@ tags:
 * [Canny](https://scoresaber.canny.io/) - Suggest a features or submit bug reports 
 * [Patreon](https://patreon.com/scoresaber) - Support us on Patreon ❤️
 * [Twitter](https://patreon.com/scoresaber) - Follow us on Twitter
+* [BSMG Wiki](https://bsmg.wiki/)

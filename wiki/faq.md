@@ -32,7 +32,7 @@ There are three main reasons why a map cannot be unranked, one benefiting each o
 
 ## How can I get unbanned from ranking maps?
 
-To get unbanned read the terms and conditions stated [here](https://docs.google.com/document/d/1rf76N1wsiaUQBdgCqAPTbUhfboHxvzvLw0YE6aHLxqE) and submit an unban request in the following form [here](https://forms.gle/mLmEpxJ25eSabX9R8)
+To get unbanned read the terms and conditions stated [here](./ranking/ranking-unban-system-and-terms.md) and submit an unban request in the following form [here](https://forms.gle/mLmEpxJ25eSabX9R8)
 
 
 ## I have feedback that I'd like to give on a map what do I do ?
