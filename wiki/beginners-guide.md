@@ -28,4 +28,4 @@ For more information on the perks given to supporters, please check our [patreon
 ## Whats next ?
 
 Now that you're all set-up and ready to go, you can start using ScoreSaber and compete with everyone else !
-If you wish to learn more about the ranking process and how are things calculated, there is a more in depth guide from our wiki available [here](https://wiki.scoresaber.com/ranking-system.html).
+If you wish to learn more about the ranking process and how are things calculated, there is a more in depth guide from our wiki available [here](./ranking-system.md).
