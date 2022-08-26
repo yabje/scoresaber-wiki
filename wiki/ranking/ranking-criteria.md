@@ -203,30 +203,30 @@ When a note is vision blocked, the cut direction should always be deducible from
 ### Images
 
 #### Slider Examples
-![hi](@images\ranking\ranking-criteria\Picture1.png)
+![Slider Examples](~@images\ranking\ranking-criteria\Picture1.png)
 
 ##### R.2.B (Parallel Notes)
 These are examples of parallel same color notes on the same snap.  
-![hi](@images\ranking\ranking-criteria\Picture2.png)
+![Parallel Notes](~@images\ranking\ranking-criteria\Picture2.png)
 
 ##### R.2.B (Pre-cut Swing Path)
 The blue note is in the pre-cut swing path of the red note.  
-![hi](@images\ranking\ranking-criteria\Picture3.png)
+![Pre-cut Swing Path](~@images\ranking\ranking-criteria\Picture3.png)
 ##### R.2.C (Walls)
 These walls force the player to take damage because there is no space for the player to pass through.  
-![hi](@images\ranking\ranking-criteria\Picture4.png)
+![Walls](~@images\ranking\ranking-criteria\Picture4.png)
 ##### R.2.D (Bombs)
 These bombs that force a saber to stay outside the 4x3 grid in order to avoid contact.  
-![hi](@images\ranking\ranking-criteria\Picture5.png)
+![Bombs](~@images\ranking\ranking-criteria\Picture5.png)
 ##### G.1.C (Pre-cut Collisions)
 The arcs of the pre-cut swings overlap.  
-![hi](@images\ranking\ranking-criteria\Picture6.png)
+![Pre-cut Collisions](~@images\ranking\ranking-criteria\Picture6.png)
 ##### G.1.C (Follow-through Collisions)
 The arcs of the follow-through swings overlap.  
-![hi](@images\ranking\ranking-criteria\Picture7.png)
+![Follow-through Collisions](~@images\ranking\ranking-criteria\Picture7.png)
 ##### G.1.D (Hitboxes)
 The red up note is in the follow-through path of the blue up note.  
-![hi](@images\ranking\ranking-criteria\Picture8.png)
+![Hitboxes](~@images\ranking\ranking-criteria\Picture8.png)
 
 ### Links
 - [Changelog](https://docs.google.com/document/d/1yiaybXp7oLYHPLqQQfwDoNUo5cGCge0n4Jo-V4IpBmA/edit)
