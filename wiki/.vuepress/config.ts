@@ -58,7 +58,7 @@ export default defineUserConfig({
       }),
       containerPlugin({
          type: 'feature',
-         before: (info) => `<div class="feature"><h2>${info}</h2>`,
+         before: (info) => `<div class="feature"><h2 style="pointer-events: none;">${info}</h2>`,
          after: () => '</div>',
       }),
       containerPlugin({
