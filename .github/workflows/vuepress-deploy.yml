@@ -1,0 +1,18 @@
+name: Build and Deploy
+on: [push]
+jobs:
+   build-and-deploy:
+      runs-on: ubuntu-latest
+      steps:
+         - name: Checkout
+           uses: actions/checkout@master
+
+         - name: vuepress-deploy
+           uses: jenkey2011/vuepress-deploy@master
+           env:
+              ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+              TARGET_REPO: ScoreSaber/ScoreSaber-Wiki
+              TARGET_BRANCH: deployment
+              BUILD_SCRIPT: npm install && npm run wiki:build
+              BUILD_DIR: wiki/.vuepress/dist
+              CNAME: https://wiki.scoresaber.com
