@@ -29,4 +29,4 @@
 - Two or more consecutive notes of the same color at over 350 BPM that may be possible to be hit with a single straight swing
 - Bursts exceeding 400 BPM
 
-The current Ranking Queue Process and Rules [can be found here](ranking-queue-rules.md)
+The current Ranking Queue Process and Rules [can be found here](/ranking/ranking-queue-rules)

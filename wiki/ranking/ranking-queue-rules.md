@@ -1,6 +1,6 @@
 # Ranking Queue Rules
 
-## General Information 
+## General Information
 
 The current ScoreSaber ranking queue
 [can be found here](https://scoresaber.com/ranking/requests).
@@ -54,4 +54,4 @@ QAT Upvotes will increase your position in queue, and QAT Downvotes will decreas
  >⚠️Additional difficulties at or above the highest difficulty in the
  initial ranking request cannot be added to the request beyond two weeks from the initial request date without resetting to the bottom of the queue
 
-The current Technical Limitation Criteria [can be found here](technical-limitations-criteria.md)
+The current Technical Limitation Criteria [can be found here](/ranking/criteria/technical-limitations-criteria)
