@@ -1,6 +1,6 @@
 # Ranking Queue Rules
 
-## General Information
+## General Information 
 
 The current ScoreSaber ranking queue
 [can be found here](https://scoresaber.com/ranking/requests).
