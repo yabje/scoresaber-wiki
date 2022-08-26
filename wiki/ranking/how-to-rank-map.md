@@ -1,4 +1,4 @@
-# How do I get my map ranked ?
+# How do I get my map ranked?
 Before you consider pushing your first map for ranked, make sure to first fulfill these basic pre-requisitions:
 
  1. The map is made and fully finished
@@ -10,7 +10,7 @@ Once all the above-mentioned points are met, you can go ahead and read the rest 
 :::
 
 
-## What is "modding" ?
+## What is "modding"?
 Modding is a term borrowed from osu!. It is the process of reviewing and providing feedback for a map via editor and/or in-game analysis. Maps have to go through this process to eventually end up ranked in ScoreSaber.
 See [this](https://bit.ly/ScoreSaberModding) guide to get started with modding maps.
 
