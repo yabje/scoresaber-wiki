@@ -1,6 +1,10 @@
 # Difficulty Spread Requirements
-*as part of the ScoreSaber Ranking Criteria*
 
+> Looking for the Mapping Criteria?
+ The Scoresaber Mapping Criteria [can be found here](./mapping-criteria)  
+
+
+## Explanation
 A mapset must contain a reasonable difficulty progression starting from the highest  difficulty level submitted for rank and ending at or below the lowest difficulty level required for the song's length, following the rules outlined in Progression Requirements.
 - Difficulty is measured in Swings per Second (SPS) with the Swings per Second Calculator. Place the calculator inside the map folder or a folder containing the zipped map files and run, or run the calculator on the command line with “--help” to see more options. The overall combined SPS is considered the SPS for the map.
   - If it does not print, it is likely because there are special characters in the info.dat. Workaround: Run the calculator on the zipped files instead.

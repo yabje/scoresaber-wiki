@@ -10,8 +10,9 @@ The current ScoreSaber ranking queue
 - If your map is in the top 6 of the ranking queue and you receive a mod from a Ranking Team member you will have 3 days to respond to the mod, and another 4 days after that to make the necessary changes to the map.
   - If you do not respond or are unable to make the changes in the set time span then your map will be taken out of queue.
 
-  > **This process is done to both encourage mappers to respond in a timely manner to comments, as well as streamline maps through the queue without a fear of reuploading.**
-
+:::tip 💡
+This process is done to both encourage mappers to respond in a timely manner to comments, as well as streamline maps through the queue without a fear of reuploading.
+:::
 ### What is Modding?
 Modding is a term borrowed from *osu!*. It is the process of reviewing and providing feedback for a map (for rankability or just general improvement) via editor and in-game analysis.
 
@@ -48,10 +49,12 @@ QAT Upvotes will increase your position in queue, and QAT Downvotes will decreas
   - difficulties with multiple mappers count towards the limit for each mapper.
   - Downmaps, difficulties not going for rank, and lighting do not count towards this limit.
 
-> *If you currently have more than 4 maps in queue you will have to wait till you have less than 4 to get anymore maps queued
+:::tip If you currently have more than 4 maps in queue you will have to wait till you have less than 4 to get anymore maps queued
+:::
 
+:::warning
+Additional difficulties at or above the highest difficulty in the initial ranking request cannot be added to the request beyond two weeks from the initial request date without resetting to the bottom of the queue
+:::
 
- >⚠️Additional difficulties at or above the highest difficulty in the
- initial ranking request cannot be added to the request beyond two weeks from the initial request date without resetting to the bottom of the queue
 
 The current Technical Limitation Criteria [can be found here](/ranking/criteria/technical-limitations-criteria)
