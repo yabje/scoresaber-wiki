@@ -5,7 +5,12 @@ The Modding Queue Category on our Discord Server is a category designed to promo
 
 If you wish to request a slot from a modder, please DM them, and they'll (hopefully) get back to you on whether they decide to take your offer.
 :::warning Please always make changes to your map, and if you aren't, please provide ample justification! Please respect the modders!
-:::
+:::  
+
+### What is Modding?
+Modding is a term borrowed from *osu!*. It is the process of reviewing and providing feedback for a map (for rankability or just general improvement) via editor and in-game analysis.
+
+[See this guide](https://bit.ly/ScoreSaberModding) to get started with modding.  
 
 ## How to apply
 
