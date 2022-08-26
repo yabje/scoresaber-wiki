@@ -10,7 +10,7 @@ Scores which are submitted to the Beat Saber original soundtracks are not submit
 
 ## Why are replays only available on ranked maps?
 
-Replays over time take up a very considerable amount of storage space and ScoreSaber only has so much of it in its current state. There are too many maps available and storing all of them would be unhealthy for the well-being of ScoreSaber servers. 
+Replays over time take up a very considerable amount of storage space and ScoreSaber only has so much of it in its current state. There are too many maps available and storing all of them would be unhealthy for the well-being of ScoreSaber servers.
 
 ## How do modifiers work with ScoreSaber?
 
@@ -37,9 +37,8 @@ To get unbanned read the terms and conditions stated [here](./ranking/ranking-un
 
 ## I have feedback that I'd like to give on a map what do I do?
 
-Most mappers are open to feedback, so don't hesitate to DM them through their available socials. Please keep criticism constructive. Try to follow the QAT Guidelines [here](https://docs.google.com/document/d/1eSDEklRYLTRzQjHyVn7NHc3snsmAjzANEmFsQdQ9vLo) in order to write constructive and actionable feedback.
+Most mappers are open to feedback, so don't hesitate to DM them through their available socials. Please keep criticism constructive. Try to [follow the QAT Guidelines here](./ranking/qat-guidelines) in order to write constructive and actionable feedback.
 
 ## Why is there so much Japenese music on Scoresaber?
 
 Japan has a long history of rhythm games, thus has many music producers that make music influenced by rhythm games and/or specifically for rhythm games a lot of the times. These songs tend to be high-tempo and include a variety of rhythms to map, which makes them generally more appealing to mappers since they are better and easier to work with. If you're dissatisfied about the current state of the available map pool, be the change you want to see and map the songs of the genres you feel are lacking for ranked.
-
