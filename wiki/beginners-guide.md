@@ -4,7 +4,7 @@
 ### PC
 Installing ScoreSaber on Beat Saber is relatively quick and easy. You need to install the mod onto your game, but before you go and install any mod, make sure to run the game at least once. This applies to reinstalling your game too. 
 
-Next, it is strongly recommended to use the ModAssistant installer, available [here](https://github.com/Assistant/ModAssistant/releases/tag/v1.1.28) to get the ScoreSaber mod up and running. 
+Next, it is strongly recommended to use the ModAssistant installer, available [here](https://github.com/Assistant/ModAssistant/releases/latest) to get the ScoreSaber mod up and running. 
 :::tip 💡 TIP 
 For safety, only install mods from this application since they are approved and verified mods.
 :::
