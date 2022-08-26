@@ -22,7 +22,7 @@ Modding is a term borrowed from *osu!*. It is the process of reviewing and provi
 
 *From the point of creating the map through ranking it, here is the process you need to follow:*
 
-1. Read and follow to the best of your ability the [ranking criteria rules and guidelines](./criteria).
+1. Read and follow to the best of your ability the [ranking criteria rules and guidelines](ranking-criteria.md).
 2. Use [Kival Evan's map checker](https://www.kivalevan.me/BeatSaber-MapCheck) to check for common errors in your map.
 3. Once you are satisfied with the map, get it modded to find mistakes. Even if you cannot get a mod by a member of the Ranking Team, any mod can help your map towards rank.
 4. Have a Ranking Team member mod your map, and make any changes deemed unrankable by the modder. Once they deem the map rankable, they will submit it to the request-feed.
@@ -44,11 +44,6 @@ QAT Upvotes will increase your position in queue, and QAT Downvotes will decreas
 
 ## General Queue Rules
 
-*Until further notice the new map format will be unrankable. This will stay in place until we have adjusted the criteria and made/updated tools for the new format.*
-- Maps must not break 350 BPM sustained
-- Maps must not break 15* difficulty
-- Maps must not break 14* difficulty without a QAT upvote on all ranked difficulties and receive 2/3 approval by RT and QAT
-- Current soft limit for map length is 10 minutes
 - Queue limit of 4 maps per mapper*
   - difficulties with multiple mappers count towards the limit for each mapper.
   - Downmaps, difficulties not going for rank, and lighting do not count towards this limit.
@@ -59,22 +54,4 @@ QAT Upvotes will increase your position in queue, and QAT Downvotes will decreas
  >⚠️Additional difficulties at or above the highest difficulty in the
  initial ranking request cannot be added to the request beyond two weeks from the initial request date without resetting to the bottom of the queue
 
-
-
-
-## Burst Criteria
-
-#### Burst rules (Beats are defined at EBPM)
-- 350-375 6 beats
-- 376-400 2 beats
-
-#### Break rules
-- 2x length of burst OR minimum 2 beat, whichever is longer
-
-#### Disallowed Mapping Objects/Patterns in Bursts
-- Dots
-- Stacks / Multinote hits / Sliders
-- Bombs
-- Parity breaks
-- Two or more consecutive notes of the same color at over 350 BPM that may be possible to be hit with a single straight swing
-- Bursts exceeding 400 BPM
+The current Technical Limitation Criteria [can be found here](/ranking/criteria/technical-limitations-criteria)
