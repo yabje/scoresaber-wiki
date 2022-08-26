@@ -28,7 +28,16 @@ Head over to [Using Scoresaber](./beginners-guide.md#using-scoresaber) to learn 
 ## Using ScoreSaber
 
 ... Should be screenshots of the ScoreSaber in-game, with explanations of what each thing does.
+### In-Game Leaderboards
 
+With the ScoreSaber mod, you have access to various leaderboards within maps. This is to help players identify with ease how they compete with others around the world. You can use the icons on the left of each leaderboard to filter the scores that are shown:
+
+- ![Global](~@images/globe.png) - Global leaderboard of selected map
+- ![Around You](~@images/user.png) - The scores around yours
+- ![Friends](~@images/group.png) - The scores from your friends
+- ![Country](~@images/flag.png) - The scores from your local country
+
+On each leaderboard, you can use the Up and Down arrow on top and bottom of the icon list to scroll through the different shown score pages.
 
 ### ScoreSaber Profile
 To be able to see and edit your ScoreSaber profile, you must first submit a score on a custom map. Doing so will automatically create your profile based on your Steam or Oculus information, and add you onto the leaderboards.
@@ -46,17 +55,6 @@ All the icons that are seen on this profile header are badges. You can earn a ba
 :::tip 💡 TIP
 For more information on the perks given to supporters, please check our [patreon page](https://www.patreon.com/scoresaber).
 :::
-
-### In-Game Leaderboards
-
-With the ScoreSaber mod, you have access to various leaderboards within maps. This is to help players identify with ease how they compete with others around the world. You can use the icons on the left of each leaderboard to filter the scores that are shown:
-
-- ![Global](~@images/globe.png) - Global leaderboard of selected map
-- ![Around You](~@images/user.png) - The scores around yours
-- ![Friends](~@images/group.png) - The scores from your friends
-- ![Country](~@images/flag.png) - The scores from your local country
-
-On each of these, you can use the Up and Down arrow on top and bottom of the icon list to scroll through the different shown score pages.
 
 ## Whats next?
 
