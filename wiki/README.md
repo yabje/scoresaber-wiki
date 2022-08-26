@@ -7,7 +7,7 @@ actions:
   - text: Beginners Guide →
     link: ./beginners-guide.md
     type: secondary
-footer: Copyright © ScoreSaber
+footer: Copyright © ScoreSaber 2022 | Licensed under CC BY-NC-SA 4.0
 
 tags:
   - scoresaber
