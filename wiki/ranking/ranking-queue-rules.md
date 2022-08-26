@@ -22,7 +22,7 @@ Modding is a term borrowed from *osu!*. It is the process of reviewing and provi
 
 *From the point of creating the map through ranking it, here is the process you need to follow:*
 
-1. Read and follow to the best of your ability the [ranking criteria rules and guidelines](ranking-criteria.md).
+1. Read and follow to the best of your ability the [ranking criteria rules and guidelines](./criteria/).
 2. Use [Kival Evan's map checker](https://www.kivalevan.me/BeatSaber-MapCheck) to check for common errors in your map.
 3. Once you are satisfied with the map, get it modded to find mistakes. Even if you cannot get a mod by a member of the Ranking Team, any mod can help your map towards rank.
 4. Have a Ranking Team member mod your map, and make any changes deemed unrankable by the modder. Once they deem the map rankable, they will submit it to the request-feed.

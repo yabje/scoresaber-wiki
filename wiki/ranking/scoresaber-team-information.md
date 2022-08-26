@@ -12,7 +12,7 @@ They are a group of specialized players who play through the ranking-queue and v
 
 ### Criteria Assurance Team (CAT)
 
-As the name suggests, the people in the Criteria Assurance Team are in charge of maintaining the [ranking-criteria](./criteria/). They also essentially are the writers of the [ranking-criteria](./criteria/). Any changes which is decided by the CAT has to be approved by NAT and ScoreSaber Admins.
+As the name suggests, the people in the Criteria Assurance Team are in charge of maintaining the [ranking criteria](./criteria/). They also essentially are the writers of the [ranking criteria](./criteria/). Any changes which is decided by the CAT has to be approved by NAT and ScoreSaber Admins.
 
 ### Nomination Assessment Team (NAT)
 
