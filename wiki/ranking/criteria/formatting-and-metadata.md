@@ -1,7 +1,13 @@
-# Formatting and Metadata
+# Formatting and Metadata Criteria
+
+> Looking for the Mapping Criteria?
+ The Scoresaber Mapping Criteria [can be found here](./mapping-criteria)
+ 
 
 ## Rules
+:::tip 💡
 The data on external sources do not have to abide by these rules, but should be kept relevant to the song and artist. You may add additional tags and other information. The metadata rules in this document are for in-game purposes.
+:::
 
 Refer to any official metadata for accurate information, then follow the formatting as laid out here. In the case of a contradiction, follow the official metadata unless it requires the use of special Unicode characters. Special Unicode characters should not be used because Beat Saber’s search feature does not support them. Instead, use the official translation when one exists and romanization when there is no official translation.
 

@@ -1,8 +1,12 @@
 # Technical Limitations Criteria
+> Looking for the Mapping Criteria?
+ The Scoresaber Mapping Criteria [can be found here](./mapping-criteria)
 
 ## Current Limits
 
-*Until further notice the new map format will be unrankable. This will stay in place until we have adjusted the criteria and made/updated tools for the new format.*
+:::warning ⚠️
+Until further notice the new map format will be unrankable. This will stay in place until we have adjusted the criteria and made/updated tools for the new format.
+:::
 - Maps must not break 350 BPM sustained
 - Maps must not break 15* difficulty
 - Maps must not break 14* difficulty without a QAT upvote on all ranked difficulties and receive 2/3 approval by RT and QAT
@@ -29,4 +33,6 @@
 - Two or more consecutive notes of the same color at over 350 BPM that may be possible to be hit with a single straight swing
 - Bursts exceeding 400 BPM
 
-The current Ranking Queue Process and Rules [can be found here](/ranking/ranking-queue-rules)
+:::tip Tip
+ The current Ranking Queue Process and Rules [can be found here](/ranking/ranking-queue-rules)
+:::

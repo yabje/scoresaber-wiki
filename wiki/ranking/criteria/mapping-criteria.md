@@ -16,7 +16,8 @@ Lastly, the appendix includes examples and clarification of issues referenced in
 Formatting for referencing criteria is as follows:
 (Main Section).(Subsection).(Criteria). The main section designations are R for rules, G for guidelines, and A for addendum. The subsections are designated by a number underneath each main section. Each individual criteria is ordered alphabetically under the subsection to which it applies.
 
->For any comments, questions, or concerns about material included or not included within the criteria, feel free to message a member of the Criteria Assurance Team at ScoreSaber.
+:::tip For any comments, questions, or concerns about material included or not included within the criteria, feel free to message a member of the Criteria Assurance Team at ScoreSaber.
+:::
 
 ## Glossary
 
