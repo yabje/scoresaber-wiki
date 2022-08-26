@@ -14,8 +14,8 @@ On your profile, you should be able to see the following: Your username, profile
 If you would like more stats or features added to your profile page, make sure to first check if this wasn't already suggested [here](https://scoresaber.canny.io/feature-requests), and create a request about said feature.
 ### Global Ranking
 A global rank will be assigned to your profile. This rank is based on comparing the total amount of pp earned to every other player from all the active players around the globe.
-### Local Ranking
-A local country rank is assigned to your profile based on your country's IP location. If you were using a VPN at the moment of setting your first score, the country you were connected to will be assigned as your local one when the profile is created. This rank, just like for the global one, is be based on comparing the total amount of pp earned to every other active player from your local assigned country.
+### Country Ranking
+A country rank is assigned to your profile based on your location at the moment of setting your first score. This rank, just like your global rank, is based on comparing the total amount of pp earned to every other active player from your country.
 
 ## Ranking process
 The Ranking Team ranks maps through a communal evaluation process. A map is first chosen by a team member to be checked; if the map seems to meet everything from the [ranking-criteria](./ranking/ranking-criteria.md), it is then added to the [ranking-queue](#rankqueueinfo) and will eventually reach the top of said queue until it is qualified with 3 upvotes. Once the map is qualified by the Nomination Assessment Team, a timer of 7 days is started for players to give feedback to the mapper. Finally, when the 7 day timer comes to an end, the map will be approved, and ranked.
