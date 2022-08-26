@@ -22,7 +22,7 @@ There are many reasons as to this is a bad idea. It was attempted in the past an
 
 ## I played all these maps but they give 0pp?
 
-That means the map is most likely not ranked. If you would like to see those maps ranked in order to gain PP from them, please reach out to the mapper and ask if it could be a possibility for them to push their map into ranking-queue.
+That means the map is most likely not ranked. If you would like to see those maps ranked in order to gain PP from them, please reach out to the mapper and ask if it could be a possibility for them to push their map for rank via the [ranking process](./ranking-system.md/#ranking-process).
 
 
 ## Why can a map not be unranked?
@@ -37,7 +37,7 @@ To get unbanned read the terms and conditions stated [here](./ranking/ranking-un
 
 ## I have feedback that I'd like to give on a map what do I do?
 
-Most mappers are open to feedback, so don't hesitate to DM them through their available socials. Please keep criticism constructive. Try to follow the QAT guidelines here in order to write constructive and actionable feedback [here](https://docs.google.com/document/d/1eSDEklRYLTRzQjHyVn7NHc3snsmAjzANEmFsQdQ9vLo)
+Most mappers are open to feedback, so don't hesitate to DM them through their available socials. Please keep criticism constructive. Try to follow the QAT Guidelines [here](https://docs.google.com/document/d/1eSDEklRYLTRzQjHyVn7NHc3snsmAjzANEmFsQdQ9vLo) in order to write constructive and actionable feedback.
 
 ## Why is there so much Japenese music on Scoresaber?
 
