@@ -27,6 +27,7 @@ tags:
 * [Beginners Guide](./beginners-guide.md)
 * [The Ranking System](./ranking-system.md)
 * [Frequently Asked Questions](./faq.md)
+
 :::
 
 ::: feature Ranking Resources
