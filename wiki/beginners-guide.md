@@ -16,7 +16,7 @@ When this is done installing, you can go ahead and launch Beat Saber.
 After the game is loaded, head over to Solo. If everything went well, you should see a new banner on the top of the leaderboards with the ScoreSaber logo, like so:
 ![Logged In](~@images/InstallationSuccess.png)
 
-Congratulations ! You are now fully ready to use the ScoreSaber mod and submit scores onto custom maps ! 
+Congratulations! You are now fully ready to use the ScoreSaber mod and submit scores onto custom maps! 
 
 Head over to [Using Scoresaber](./beginners-guide.md#using-scoresaber) to learn more about ScoreSaber's website, mod, and all their functions.
 
@@ -58,7 +58,7 @@ With the ScoreSaber mod, you have access to various leaderboards within maps. Th
 
 On each of these, you can use the Up and Down arrow on top and bottom of the icon list to scroll through the different shown score pages.
 
-## Whats next ?
+## Whats next?
 
-Now that you're all set-up and ready to go, you can start using ScoreSaber and compete with everyone else !  
+Now that you're all set-up and ready to go, you can start using ScoreSaber and compete with everyone else!  
 If you wish to learn more about the ranking process and how are things calculated, there is a more in depth guide from our wiki available [here](./ranking-system.md).

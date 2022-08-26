@@ -1,4 +1,4 @@
-# How does ScoreSaber and the PP system work ?
+# How does ScoreSaber and the PP system work?
 
 ## Earning PP
 PP is in return awarded to players for submitting a score on ranked maps,. To prevent skilled players from grinding hundreds of easier maps worth less PP to rank up, a curve is applied to your plays. This curve is available below, it shows the percentage of points you get relative to the assigned PP value of a map based on your performance on said map.
