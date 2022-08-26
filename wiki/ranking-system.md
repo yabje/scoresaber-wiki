@@ -8,7 +8,7 @@ ScoreSaber calculates your total PP, which you can see next to your ScoreSaber p
 ![PP Curve](~@images/ranking/pp-curve.png)
 
 ## Ranking process
-The Ranking Team ranks maps through a communal evaluation process. A map is first chosen by a team member to be checked; if the map seems to meet everything from the [ranking-criteria](./ranking/ranking-criteria.md), it is then added to the [ranking-queue](#rankqueueinfo) and will eventually reach the top of said queue until it is qualified with 3 upvotes. Once the map is qualified by the Nomination Assessment Team, a timer of 7 days is started for players to give feedback to the mapper. Finally, when the 7 day timer comes to an end, the map will be approved, and ranked.
+The Ranking Team ranks maps through a communal evaluation process. A map is first chosen by a team member to be checked; if the map seems to meet everything from the [ranking-criteria](./ranking/criteria), it is then added to the [ranking-queue](./ranking/ranking-queue-rules.md) and will eventually reach the top of said queue until it is qualified with 3 upvotes. Once the map is qualified by the Nomination Assessment Team, a timer of 7 days is started for players to give feedback to the mapper. Finally, when the 7 day timer comes to an end, the map will be approved, and ranked.
 
 When a map is ranked, it is then assigned a Performance Points (commonly referred to as *PP*) value based on an algorithm which determines the difficulty of said map, this is based of a variety of factors. 
 

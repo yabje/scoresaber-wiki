@@ -1,9 +1,8 @@
-# Ranking Criteria
+# Mapping Criteria
 
-## About the Ranking Criteria
-The purpose of the ranking criteria is to set an objective standard to follow that ensures that maps put into the rank pool are fair for players. The criteria is enforced in a way that does not take into account bias from any mapper, player, or team member.
+## About the Mapping Criteria
 
-The criteria involves two sections: one for rules, and one for guidelines.
+The mapping criteria involves two sections: one for rules, and one for guidelines.
  - Rules are criteria that must be followed for a map to be considered rankable.
  - Guidelines are criteria that should be followed for a map to be considered rankable but can be broken under proper setup or justification.
 
@@ -12,7 +11,7 @@ Further included in this document are a glossary, addendum, and appendix.
 - The addendum includes suggestions that are not explicitly about rankability but can aid a map in getting through quality checks.
 - Note that while sections in the addendum do not have to be followed explicitly, excessive abuse of the suggestions can be reason for a map to be denied.
 
-Lastly, the appendix includes examples and clarification of issues referenced in the criteria.
+Lastly, the appendix includes examples and clarification of issues referenced in the mapping criteria.
 
 Formatting for referencing criteria is as follows:
 (Main Section).(Subsection).(Criteria). The main section designations are R for rules, G for guidelines, and A for addendum. The subsections are designated by a number underneath each main section. Each individual criteria is ordered alphabetically under the subsection to which it applies.
@@ -53,7 +52,7 @@ Formatting for referencing criteria is as follows:
 
 **On the same snap**: Refers to motions that are intended to be made at the same point in time.  
 **Dot Note**: The note type that can be scored on by a cut from any direction.  
-**Slider**: A set of notes that follow each other at a set timing precision such that they appear at distinct timings but can still be hit with a single swing. [EXAMPLE](./ranking-criteria.html#slider-examples)  
+**Slider**: A set of notes that follow each other at a set timing precision such that they appear at distinct timings but can still be hit with a single swing. [EXAMPLE](./mapping-criteria.html#slider-examples)  
 **Double directional**: Two consecutive notes of the same color in the same direction.  
 **Reset**: A motion where hand/arm position or rotation are adjusted without a corresponding note for that hand.  
 **Bomb reset**: Using bombs to force a reset.  
@@ -72,22 +71,22 @@ Maps must be ‘Standard’ game mode maps.
 #### A. Mismaps
 A map cannot have any objects that are clearly placed or positioned unintentionally by the mapper.
 #### B. Notes
-Multiple notes of the same color on the same swing must not be parallel to one another. [EXAMPLE](./ranking-criteria.html#r-2-b-parallel-notes)  
+Multiple notes of the same color on the same swing must not be parallel to one another. [EXAMPLE](./mapping-criteria.html#r-2-b-parallel-notes)  
 If there are multiple notes of the same color on the same swing, each note must lead into the expected cut direction of the next note.  
 Multiple notes of the same color on the same snap must not differ in cut direction from each other by more than 45 degrees.  
-Notes must not be placed in the pre-cut swing path of a note of the opposite color. [EXAMPLE](./ranking-criteria.html#r-2-b-pre-cut-swing-path)  
+Notes must not be placed in the pre-cut swing path of a note of the opposite color. [EXAMPLE](./mapping-criteria.html#r-2-b-pre-cut-swing-path)  
 Notes must not be placed inside walls or be completely blocked from the player’s view by walls.  
 A pattern must not induce a variation in swing speed within a single swing.  
 A pattern must not be at a significantly higher effective BPM than what is justified within the rest of the map.  
 #### C. Walls
-There must not be a wall or combination of walls that force the player to take damage. [EXAMPLE](./ranking-criteria.html#r-2-c-walls-1)  
+There must not be a wall or combination of walls that force the player to take damage. [EXAMPLE](./mapping-criteria.html#r-2-c-walls-1)  
 There must not be a wall or combination of walls that force the player into the outside lanes of the playfield.  
 Walls must have positive width.  
 Interactive walls must have a duration of at least 15ms. That allows for 1/16 precision up to 250BPM and ⅛ precision up to 500BPM.  
 No part of a wall can lie outside the 4x3 grid.  
 #### D. Bombs
 Bombs must not be placed such that they interfere with the pre-cut or follow-through swing for a note.  
-Bombs must not be placed in a way that forces a saber to stay outside the 4x3 grid in order to avoid contacting the bombs. [EXAMPLE](./ranking-criteria.html#r-2-d-bombs)  
+Bombs must not be placed in a way that forces a saber to stay outside the 4x3 grid in order to avoid contacting the bombs. [EXAMPLE](./mapping-criteria.html#r-2-d-bombs)  
 Bombs must be accompanied with an acceptable level of lighting.  
 Bombs must not be placed inside of walls or be completely blocked from the player’s view by walls.  
 Bombs may not overlap with other objects in game and must be placed at least 20 ms apart from other bombs in the same space. If the NJS is not too low,   that allows for 1/16 precision up to 180 BPM and ⅛ precision up to 360 BPM.  
@@ -153,11 +152,11 @@ Sliders should not have direction changes of more than 45 degrees.
 Sliders should not have more than one direction change.
 
 #### C. Collisions
-There should be no patterns where the arc of the pre-cut swing on one hand overlaps with the pre-cut swing of the other hand. [EXAMPLE](./ranking-criteria.html#g-1-c-pre-cut-collisions)  
-There should be no patterns where the arc of the follow-through swing on one hand overlaps with the follow-through swing of the other hand. [EXAMPLE](./ranking-criteria.html#g-1-c-follow-through-collisions)   
+There should be no patterns where the arc of the pre-cut swing on one hand overlaps with the pre-cut swing of the other hand. [EXAMPLE](./mapping-criteria.html#g-1-c-pre-cut-collisions)  
+There should be no patterns where the arc of the follow-through swing on one hand overlaps with the follow-through swing of the other hand. [EXAMPLE](./mapping-criteria.html#g-1-c-follow-through-collisions)   
 
 #### D. Hitboxes
-Notes should not be placed in the follow-through path of a note of the opposite color ([EXAMPLE](./ranking-criteria.html#g-1-d-hitboxes)) unless the notes are on the same snap or there is sufficient time for the other color saber to swing clear of the note.  
+Notes should not be placed in the follow-through path of a note of the opposite color ([EXAMPLE](./mapping-criteria.html#g-1-d-hitboxes)) unless the notes are on the same snap or there is sufficient time for the other color saber to swing clear of the note.  
 No patterns should have a swing path into the bad cut hitbox for a note of the same color in the same swing.
 
 #### E. Vision Blocks
@@ -203,30 +202,30 @@ When a note is vision blocked, the cut direction should always be deducible from
 ### Images
 
 #### Slider Examples
-![Slider Examples](~@images\ranking\ranking-criteria\Picture1.png)
+![Slider Examples](~@images\ranking\mapping-criteria\Picture1.png)
 
 ##### R.2.B (Parallel Notes)
 These are examples of parallel same color notes on the same snap.  
-![Parallel Notes](~@images\ranking\ranking-criteria\Picture2.png)
+![Parallel Notes](~@images\ranking\mapping-criteria\Picture2.png)
 
 ##### R.2.B (Pre-cut Swing Path)
 The blue note is in the pre-cut swing path of the red note.  
-![Pre-cut Swing Path](~@images\ranking\ranking-criteria\Picture3.png)
+![Pre-cut Swing Path](~@images\ranking\mapping-criteria\Picture3.png)
 ##### R.2.C (Walls)
 These walls force the player to take damage because there is no space for the player to pass through.  
-![Walls](~@images\ranking\ranking-criteria\Picture4.png)
+![Walls](~@images\ranking\mapping-criteria\Picture4.png)
 ##### R.2.D (Bombs)
 These bombs that force a saber to stay outside the 4x3 grid in order to avoid contact.  
-![Bombs](~@images\ranking\ranking-criteria\Picture5.png)
+![Bombs](~@images\ranking\mapping-criteria\Picture5.png)
 ##### G.1.C (Pre-cut Collisions)
 The arcs of the pre-cut swings overlap.  
-![Pre-cut Collisions](~@images\ranking\ranking-criteria\Picture6.png)
+![Pre-cut Collisions](~@images\ranking\mapping-criteria\Picture6.png)
 ##### G.1.C (Follow-through Collisions)
 The arcs of the follow-through swings overlap.  
-![Follow-through Collisions](~@images\ranking\ranking-criteria\Picture7.png)
+![Follow-through Collisions](~@images\ranking\mapping-criteria\Picture7.png)
 ##### G.1.D (Hitboxes)
 The red up note is in the follow-through path of the blue up note.  
-![Hitboxes](~@images\ranking\ranking-criteria\Picture8.png)
+![Hitboxes](~@images\ranking\mapping-criteria\Picture8.png)
 
 ### Links
 - [Changelog](https://docs.google.com/document/d/1yiaybXp7oLYHPLqQQfwDoNUo5cGCge0n4Jo-V4IpBmA/edit)
