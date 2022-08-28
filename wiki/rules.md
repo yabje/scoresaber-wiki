@@ -14,20 +14,16 @@
 
 5.    Where the rules do not prevail, common sense shall. **The administration has explicit discretion to apply their judgment on this as they see fit.**
 
-### Rules for Mappers with Ranked Maps
+### Mappers with Ranked Maps
 
 :::danger ⚠️ ATTENTION
-If you have one or multiple maps that are ranked, you should never delete said map from being available to players. If you are find deleting one of your ranked maps, you will be considered as unreliable and will then be banned from ranking any maps on ScoreSaber in the future.
+If you have one or multiple maps that are ranked, you should never delete or republish said map from being available to players. If you are find deleting one of your ranked maps, you will be considered as unreliable and will then be banned from ranking any maps on ScoreSaber in the future.
 :::
 
-## What Happens if I Break the Rules?
- ... something something ban duration, ban appeal, etc., split into mapper and player ban
-### Regarding Mappers
+## What Happens if I Break the Rules?  
 
-...
+You will most likely get banned (either temporary or permanently).
 
-### Regarding Players
 
-...
-
+**If you are currently banned from ScoreSaber Ranking and want to get unbanned, please read the following:**
 [Ranking Unban System and Terms](./ranking/ranking-unban-system-and-terms)
