@@ -42,7 +42,7 @@ Please head over to the [BSMG Wiki](https://bsmg.wiki/quest-modding.html) for a 
 
 
 ### In-Game Song Leaderboards
-![Global](~@images/beginners-guide/ScoreSaber_1.png)  
+![Leaderboard_full](~@images/beginners-guide/ScoreSaber_1.png)  
 
 With the ScoreSaber mod, you have access to various leaderboards within maps. This is to help players identify with ease how they compete with others around the world. You can use the icons on the left of each leaderboard to filter the scores that are shown:
 
@@ -53,16 +53,17 @@ With the ScoreSaber mod, you have access to various leaderboards within maps. Th
 
 On each leaderboard, you can use the Up and Down arrow on top and bottom of the icon list to scroll through the different shown score pages.
 
+![leaderboard_detail](~@images/beginners-guide/ScoreSaber_2.png)
 ---
 
 You can also click on an **individual Score**, via the Button at the right side to see more information about the score, such as:
 
-![Global](~@images/beginners-guide/ScoreSaber_3.png)
+![Score_info](~@images/beginners-guide/ScoreSaber_3.png)
 ---
 
 On the **Top right of the newly opened Window**, you can also **open the Users Profile**, indicated by the "Businesscard icon":
 
-![Global](~@images/beginners-guide/ScoreSaber_4.png)  
+![Profile](~@images/beginners-guide/ScoreSaber_4.png)  
 
 ---
 
@@ -70,11 +71,11 @@ On the **Top right of the newly opened Window**, you can also **open the Users P
 
 by pressing on the big yellow ScoreSaber Button right at the top of the leaderboard:  
 
-![Global](~@images/beginners-guide/ScoreSaber_6.png)  
+![Lb_top](~@images/beginners-guide/ScoreSaber_6.png)  
 
 You can find our in-game dashboard:  
 
-![Global](~@images/beginners-guide/ScoreSaber_5.png)
+![SS_Info](~@images/beginners-guide/ScoreSaber_5.png)
 
 Here you can see a in-game view of our Team Page as well as the Global Leaderboards and links to our socials.  
 
