@@ -25,5 +25,6 @@ If you have one or multiple maps that are ranked, you should never delete or rep
 You will most likely get banned (either temporary or permanently).
 
 
-**If you are currently banned from ScoreSaber Ranking and want to get unbanned, please read the following:**
+:::warning If you are currently banned from ScoreSaber Ranking and want to get unbanned, please read the following:
 [Ranking Unban System and Terms](./ranking/ranking-unban-system-and-terms)
+:::

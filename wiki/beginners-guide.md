@@ -40,7 +40,7 @@ Please head over to the [BSMG Wiki](https://bsmg.wiki/quest-modding.html) for a 
 
 ## Using ScoreSaber
 
-
+**The ScoreSaber website is available at** [https://scoresaber.com/](https://scoresaber.com/)
 ### In-Game Song Leaderboards
 ![Leaderboard_full](~@images/beginners-guide/ScoreSaber_1.png)  
 
