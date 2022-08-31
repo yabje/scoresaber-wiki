@@ -51,7 +51,9 @@ If a modder doesn't respond in a week or so feel free to remind them unless they
 ## Put the map in the ranking-queue
 
 Once all of the above is done, it is now time for the ranking team member to add your map into the ranking-queue. This doesn't mean your map will be ranked as is,  but it will eventually end up ranked.
-The ranking team member should in the end be asking you for the leaderboard IDs. Example of a leaderboard ID:
+The ranking team member should in the end be asking you for the leaderboard IDs.   
+
+**Example of a leaderboard ID:**
 
 ![Leaderboard ID Example](~@images/ranking/how-to-rank-map/leaderboard-id.png)
 
