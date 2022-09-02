@@ -23,12 +23,12 @@ Head over to [Using Scoresaber](./beginners-guide.md#using-scoresaber) to learn 
 
 ### ScoreSaber for Quest
 
-:::danger ScoreSaber for Quest is currently only available for Beat Saber Version 1.17.1.
-The Release for newer Versions of the Game is currently in development.
-If you want to currently use ScoreSaber on Quest, you have to downgrade your Beat Saber to v1.17.1.  
-The easiest method to get to the right version, is to go to the [Beat Saber Legacy](https://bslegacy.com/) website, click on "**Quest Downgrader**" tab, and follow the steps.
+:::danger ScoreSaber for Quest is currently only available for Beat Saber Version `1.17.1`.
+The Release for newer Versions of the Game is **currently in development.**
+If you want to currently use ScoreSaber on Quest, you have to downgrade your Beat Saber to `v1.17.1`.  
+The easiest method to get to the right version, is to open the [OculusDB Downgrading Guide](https://oculusdb.rui2015.me/guide), select Quest as the headset, and follow the steps.
 
-If you still need help with or have issues with **Downgrading**, please go to the [BSLG Discord](https://discord.gg/MrwMx5e).
+If you still need help with or have issues with **Downgrading**, please go to the [BSMG Discord](https://discord.gg/beatsabermods).
 :::
 
 #### Installing ScoreSaber for Quest
