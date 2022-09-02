@@ -5,14 +5,18 @@
 Installing ScoreSaber on Beat Saber is relatively quick and easy. You need to install the mod onto your game, but before you go and install any mod, make sure to run the game at least once. This applies to reinstalling your game too.
 
 Next, it is strongly recommended to use the ModAssistant installer, available [here](https://github.com/Assistant/ModAssistant/releases/latest) to get the ScoreSaber mod up and running.
-:::tip 💡 TIP
-For safety, only install mods from this application since they are approved and verified mods.
+:::warning 💡  For safety, only install mods from this application since they are approved and verified mods.
 :::
 ![Mod Assistant](~@images/modassistant.png)
 
 When this is done installing, you can go ahead and launch Beat Saber.
 
 
+::: tip Need help with Plugins/Mods?  
+Please head over to the [BSMG Wiki](https://bsmg.wiki/pc-modding.html) for a detailed guide on Modding.  
+:::
+
+---
 After the game is loaded, head over to Solo. If everything went well, you should see a new banner on the top of the leaderboards with the ScoreSaber logo, like so:
 ![Logged In](~@images/InstallationSuccess.png)
 
@@ -30,6 +34,11 @@ The easiest method to get to the right version, is to open the [OculusDB Downgra
 
 If you still need help with or have issues with **Downgrading**, please go to the [BSMG Discord](https://discord.gg/beatsabermods).
 :::
+
+::: warning ⚠️ Do not put your Steam login information into anything that isn't Steam!
+:::
+
+---
 
 #### Installing ScoreSaber for Quest
 
