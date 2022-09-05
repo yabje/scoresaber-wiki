@@ -63,11 +63,13 @@ With the ScoreSaber mod, you have access to various leaderboards within maps. Th
 On each leaderboard, you can use the Up and Down arrow on top and bottom of the icon list to scroll through the different shown score pages.
 
 ![leaderboard_detail](~@images/beginners-guide/ScoreSaber_2.png)
+
 ---
 
 You can also click on an **individual Score**, via the Button at the right side to see more information about the score, such as:
 
 ![Score_info](~@images/beginners-guide/ScoreSaber_3.png)
+
 ---
 
 On the **Top right of the newly opened Window**, you can also **open the Users Profile**, indicated by the "Businesscard icon":
