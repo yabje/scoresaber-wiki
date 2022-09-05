@@ -53,7 +53,7 @@ Formatting for referencing criteria is as follows:
 
 **On the same snap**: Refers to motions that are intended to be made at the same point in time.  
 **Dot Note**: The note type that can be scored on by a cut from any direction.  
-**Slider**: A set of notes that follow each other at a set timing precision such that they appear at distinct timings but can still be hit with a single swing. [EXAMPLE](./mapping-criteria.html#slider-examples)  
+**Slider**: A set of notes that follow each other at a set timing precision such that they appear at distinct timings but can still be hit with a single swing. [EXAMPLE](./mapping-criteria.md#slider-examples)  
 **Double directional**: Two consecutive notes of the same color in the same direction.  
 **Reset**: A motion where hand/arm position or rotation are adjusted without a corresponding note for that hand.  
 **Bomb reset**: Using bombs to force a reset.  
@@ -72,22 +72,22 @@ Maps must be ‘Standard’ game mode maps.
 #### A. Mismaps
 A map cannot have any objects that are clearly placed or positioned unintentionally by the mapper.
 #### B. Notes
-Multiple notes of the same color on the same swing must not be parallel to one another. [EXAMPLE](./mapping-criteria.html#r-2-b-parallel-notes)  
+Multiple notes of the same color on the same swing must not be parallel to one another. [EXAMPLE](./mapping-criteria.md#r-2-b-parallel-notes)  
 If there are multiple notes of the same color on the same swing, each note must lead into the expected cut direction of the next note.  
 Multiple notes of the same color on the same snap must not differ in cut direction from each other by more than 45 degrees.  
-Notes must not be placed in the pre-cut swing path of a note of the opposite color. [EXAMPLE](./mapping-criteria.html#r-2-b-pre-cut-swing-path)  
+Notes must not be placed in the pre-cut swing path of a note of the opposite color. [EXAMPLE](./mapping-criteria.md#r-2-b-pre-cut-swing-path)  
 Notes must not be placed inside walls or be completely blocked from the player’s view by walls.  
 A pattern must not induce a variation in swing speed within a single swing.  
 A pattern must not be at a significantly higher effective BPM than what is justified within the rest of the map.  
 #### C. Walls
-There must not be a wall or combination of walls that force the player to take damage. [EXAMPLE](./mapping-criteria.html#r-2-c-walls-1)  
+There must not be a wall or combination of walls that force the player to take damage. [EXAMPLE](./mapping-criteria.md#r-2-c-walls-1)  
 There must not be a wall or combination of walls that force the player into the outside lanes of the playfield.  
 Walls must have positive width.  
 Interactive walls must have a duration of at least 15ms. That allows for 1/16 precision up to 250BPM and ⅛ precision up to 500BPM.  
 No part of a wall can lie outside the 4x3 grid.  
 #### D. Bombs
 Bombs must not be placed such that they interfere with the pre-cut or follow-through swing for a note.  
-Bombs must not be placed in a way that forces a saber to stay outside the 4x3 grid in order to avoid contacting the bombs. [EXAMPLE](./mapping-criteria.html#r-2-d-bombs)  
+Bombs must not be placed in a way that forces a saber to stay outside the 4x3 grid in order to avoid contacting the bombs. [EXAMPLE](./mapping-criteria.md#r-2-d-bombs)  
 Bombs must be accompanied with an acceptable level of lighting.  
 Bombs must not be placed inside of walls or be completely blocked from the player’s view by walls.  
 Bombs may not overlap with other objects in game and must be placed at least 20 ms apart from other bombs in the same space. If the NJS is not too low,   that allows for 1/16 precision up to 180 BPM and ⅛ precision up to 360 BPM.  
@@ -153,11 +153,11 @@ Sliders should not have direction changes of more than 45 degrees.
 Sliders should not have more than one direction change.
 
 #### C. Collisions
-There should be no patterns where the arc of the pre-cut swing on one hand overlaps with the pre-cut swing of the other hand. [EXAMPLE](./mapping-criteria.html#g-1-c-pre-cut-collisions)  
-There should be no patterns where the arc of the follow-through swing on one hand overlaps with the follow-through swing of the other hand. [EXAMPLE](./mapping-criteria.html#g-1-c-follow-through-collisions)   
+There should be no patterns where the arc of the pre-cut swing on one hand overlaps with the pre-cut swing of the other hand. [EXAMPLE](./mapping-criteria.md#g-1-c-pre-cut-collisions)  
+There should be no patterns where the arc of the follow-through swing on one hand overlaps with the follow-through swing of the other hand. [EXAMPLE](./mapping-criteria.md#g-1-c-follow-through-collisions)   
 
 #### D. Hitboxes
-Notes should not be placed in the follow-through path of a note of the opposite color ([EXAMPLE](./mapping-criteria.html#g-1-d-hitboxes)) unless the notes are on the same snap or there is sufficient time for the other color saber to swing clear of the note.  
+Notes should not be placed in the follow-through path of a note of the opposite color ([EXAMPLE](./mapping-criteria.md#g-1-d-hitboxes)) unless the notes are on the same snap or there is sufficient time for the other color saber to swing clear of the note.  
 No patterns should have a swing path into the bad cut hitbox for a note of the same color in the same swing.
 
 #### E. Vision Blocks

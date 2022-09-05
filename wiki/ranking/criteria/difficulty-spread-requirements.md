@@ -1,7 +1,7 @@
 # Difficulty Spread Requirements
 
 > Looking for the Mapping Criteria?
- The Scoresaber Mapping Criteria [can be found here](./mapping-criteria)  
+ The Scoresaber Mapping Criteria [can be found here](./mapping-criteria.md)  
 
 
 ## Explanation
