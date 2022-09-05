@@ -55,7 +55,7 @@ tags:
 
 * [Discord](https://discord.gg/scoresaber) - Join us on Discord
 * [Trello](https://trello.com/b/Jd9EdIml/scoresaber-development) - Track ScoreSaber development on Trello
-* [Canny](https://scoresaber.canny.io/) - Suggest a features or submit bug reports 
+* [Canny](https://scoresaber.canny.io/) - Suggest a feature or submit bug reports
 * [Patreon](https://patreon.com/scoresaber) - Support us on Patreon ❤️
 * [Twitter](https://patreon.com/scoresaber) - Follow us on Twitter
 * [BSMG Wiki](https://bsmg.wiki/)

@@ -10,3 +10,5 @@ The criteria is enforced in a way that does not take into account bias from any 
 - [Technical Limitations Criteria](./technical-limitations-criteria.md)
 - [Difficulty Spread Requirements](./difficulty-spread-requirements.md)
 - [Formatting and Metadata](./formatting-and-metadata.md)
+---
+- [Mapping Criteria (Korean)](https://docs.google.com/document/d/1K1iRlM7_kHYbMVzVoUuDmVUl53i3P1D58QapjfNX8Fc)
