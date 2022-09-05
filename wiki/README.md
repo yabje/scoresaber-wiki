@@ -33,7 +33,7 @@ tags:
 ::: feature Ranking Resources
 
 * [How to Rank my Map](./ranking/how-to-rank-map.md)
-* [Ranking Criteria](./ranking/criteria)
+* [Ranking Criteria](/ranking/criteria/)
 * [Ranking Queue Rules](./ranking/ranking-queue-rules.md)
 * [QAT Guidelines](./ranking/qat-guidelines.md)
 * [Modding Queue Information](./ranking/modding-queue-information.md)
