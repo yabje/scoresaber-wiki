@@ -12,15 +12,7 @@ Modding is a term borrowed from *osu!*. It is the process of reviewing and provi
 
 [See this guide](https://bit.ly/ScoreSaberModding) to get started with modding.  
 
-## How to apply
-
-If you wish to set up a Modding queue yourself, please DM `"Dog" (AFriendlyPug#7901)` via Discord, and send the requirements below, and they'll create you a channel with permissions for you.
-
-
-
-If you post anything inappropriate your channel will be removed, and you will be banned from requesting a new Modding queue.
-
-## Requirements
+## Requirements & Rules
 Please send `"Dog" (AFriendlyPug#7901)`via Discord the following items when requesting a Modding queue:
 
 1. A link to your [ScoreSaber](https://scoresaber.com) account, if it exists.
@@ -28,6 +20,6 @@ Please send `"Dog" (AFriendlyPug#7901)`via Discord the following items when requ
 :::tip We expect at least basic understanding and use of timing, consistency, and correct use of rhythm choices.
 :::
 - Response times can range from 1-5 days.
-
 - If you do not send at least the second item you will not be eligible for a community modding queue.
 - If you are a RT or QAT member or have a queue made for you before 04/01/2021 (DD/MM/YYYY), you are exempt from these requirements.
+- If you post anything inappropriate your channel will be removed, and you will be banned from requesting a new Modding queue.
