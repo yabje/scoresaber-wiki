@@ -26,5 +26,5 @@ You will most likely get banned (either temporary or permanently).
 
 
 :::warning If you are currently banned from ScoreSaber Ranking and want to get unbanned, please read the following:
-[Ranking Unban System and Terms](./ranking/ranking-unban-system-and-terms)
+[Ranking Unban System and Terms](./ranking/ranking-unban-system-and-terms.md)
 :::

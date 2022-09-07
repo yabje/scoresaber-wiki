@@ -2,7 +2,7 @@
 Before you consider pushing your first map for ranked, make sure to first fulfill these basic pre-requisitions:
 
  1. The map is made and fully finished
- 2. The map seems to meet every point from the [ranking criteria](./criteria)
+ 2. The map seems to meet every point from the [ranking criteria](/criteria/)
  3. The map was play-tested by players and appear to not have any issues
 
 :::tip
