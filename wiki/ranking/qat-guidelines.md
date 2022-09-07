@@ -7,7 +7,7 @@ The goal of the QAT is to provide effective, fair feedback to mappers with the a
 :::
 ## QAT Behavior
 
-As a member of the QAT, your actions represent the QAT and Scoresaber as a whole. You are expected to carry yourself with respect and empathy when publicly interacting with the ranked system. Not only does kind, responsible behavior reflect well on yourself and the team- it also is far more effective at creating healthy change in a map.
+As a member of the QAT, your actions represent the QAT and ScoreSaber as a whole. You are expected to carry yourself with respect and empathy when publicly interacting with the ranked system. Not only does kind, responsible behavior reflect well on yourself and the team- it also is far more effective at creating healthy change in a map.
 
 
 

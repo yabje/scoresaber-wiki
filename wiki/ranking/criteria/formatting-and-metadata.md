@@ -1,7 +1,7 @@
 # Formatting and Metadata Criteria
 
 > Looking for the Mapping Criteria?
- The Scoresaber Mapping Criteria [can be found here](./mapping-criteria.md)
+ The ScoreSaber Mapping Criteria [can be found here](./mapping-criteria.md)
  
 
 ## Rules

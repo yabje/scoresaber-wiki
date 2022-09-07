@@ -1,6 +1,6 @@
 # ScoreSaber Team Information
 
-## What does each role do within Scoresaber?
+## What does each role do within ScoreSaber?
 
 ### Ranking Team (RT)
 

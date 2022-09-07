@@ -22,7 +22,7 @@ After the game is loaded, head over to Solo. If everything went well, you should
 
 Congratulations! You are now fully ready to use the ScoreSaber mod and submit scores onto custom maps!
 
-Head over to [Using Scoresaber](./beginners-guide.md#using-scoresaber) to learn more about ScoreSaber's website, mod, and all their functions.
+Head over to [Using ScoreSaber](./beginners-guide.md#using-scoresaber) to learn more about ScoreSaber's website, mod, and all their functions.
 
 
 ### ScoreSaber for Quest
