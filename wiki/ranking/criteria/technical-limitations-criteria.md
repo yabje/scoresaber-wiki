@@ -8,10 +8,10 @@
 Until further notice the new map format will be unrankable. This will stay in place until we have adjusted the criteria and made/updated tools for the new format.
 :::
 
-- Maps must not break 350 BPM sustained
-- Maps must not break 15* difficulty
-- Maps must not break 14* difficulty without a QAT upvote on all ranked difficulties and receive 2/3 approval by RT and QAT
-- Current soft limit for map length is 10 minutes
+- Maps must not break **350 BPM sustained**
+- Maps must not break **13.5⭐difficulty**
+- Maps must not break **11.5⭐difficulty** without a QAT upvote on all ranked difficulties and receive 2/3 approval by RT and QAT
+- Current soft limit for map length is **10 minutes**
 
 ## Burst Criteria
 
@@ -35,4 +35,8 @@ Until further notice the new map format will be unrankable. This will stay in pl
 
 :::tip Tip
  The current Ranking Queue Process and Rules [can be found here](/ranking/ranking-queue-rules.md)
+:::
+
+::: details aaa
+    aaa
 :::
