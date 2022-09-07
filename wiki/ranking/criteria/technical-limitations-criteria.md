@@ -36,7 +36,3 @@ Until further notice the new map format will be unrankable. This will stay in pl
 :::tip Tip
  The current Ranking Queue Process and Rules [can be found here](/ranking/ranking-queue-rules.md)
 :::
-
-::: details aaa
-    aaa
-:::
