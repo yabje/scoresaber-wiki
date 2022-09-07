@@ -1,7 +1,7 @@
 # Difficulty Spread Requirements
 
 > Looking for the Mapping Criteria?
- The Scoresaber Mapping Criteria [can be found here](./mapping-criteria.md)  
+ The ScoreSaber Mapping Criteria [can be found here](./mapping-criteria.md)  
 
 ## Explanation
 A mapset must contain a reasonable difficulty progression starting from the highest  difficulty level submitted for rank and ending at or below the lowest difficulty level required for the song's length, following the rules outlined in Progression Requirements.
