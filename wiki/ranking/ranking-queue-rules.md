@@ -57,4 +57,4 @@ Additional difficulties at or above the highest difficulty in the initial rankin
 :::
 
 
-The current Technical Limitation Criteria [can be found here](/ranking/criteria/technical-limitations-criteria)
+The current Technical Limitation Criteria [can be found here](./criteria/technical-limitations-criteria.md)

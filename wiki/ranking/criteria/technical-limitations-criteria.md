@@ -1,6 +1,6 @@
 # Technical Limitations Criteria
 > Looking for the Mapping Criteria?
- The Scoresaber Mapping Criteria [can be found here](./mapping-criteria)
+ The Scoresaber Mapping Criteria [can be found here](./mapping-criteria.md)
 
 ## Current Limits
 
@@ -34,5 +34,5 @@ Until further notice the new map format will be unrankable. This will stay in pl
 - Bursts exceeding 400 BPM
 
 :::tip Tip
- The current Ranking Queue Process and Rules [can be found here](/ranking/ranking-queue-rules)
+ The current Ranking Queue Process and Rules [can be found here](/ranking/ranking-queue-rules.md)
 :::

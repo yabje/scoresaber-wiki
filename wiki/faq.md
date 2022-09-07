@@ -37,7 +37,7 @@ To get unbanned read the terms and conditions stated [here](./ranking/ranking-un
 
 ## I have feedback that I'd like to give on a map what do I do?
 
-Most mappers are open to feedback, so don't hesitate to DM them through their available socials. Please keep criticism constructive. Try to [follow the QAT Guidelines here](./ranking/qat-guidelines) in order to write constructive and actionable feedback.
+Most mappers are open to feedback, so don't hesitate to DM them through their available socials. Please keep criticism constructive. Try to [follow the QAT Guidelines here](./ranking/qat-guidelines.md) in order to write constructive and actionable feedback.
 
 ## Why is there so much Japenese music on Scoresaber?
 
