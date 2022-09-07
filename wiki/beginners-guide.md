@@ -27,11 +27,11 @@ Head over to [Using ScoreSaber](./beginners-guide.md#using-scoresaber) to learn 
 ### ScoreSaber for Quest
 
 :::danger ScoreSaber for Quest is currently only available for Beat Saber Version `1.17.1`.
-The Release for newer Versions of the Game is **currently in development.**
+The release for newer versions of the Game is **currently in development.**
 If you want to currently use ScoreSaber on Quest, you have to downgrade your Beat Saber to `v1.17.1`.  
 The easiest method to get to the right version, is to open the [OculusDB Downgrading Guide](https://oculusdb.rui2015.me/guide), select Quest as the headset, and follow the steps.
 
-If you still need help with or have issues with **Downgrading**, please go to the [BSMG Discord](https://discord.gg/beatsabermods).
+If you still need help with or have issues with **downgrading**, please go to the [BSMG Discord](https://discord.gg/beatsabermods).
 :::
 
 ::: warning ⚠️ Do not put your Steam login information into anything that isn't Steam!
@@ -66,13 +66,13 @@ On each leaderboard, you can use the Up and Down arrow on top and bottom of the 
 
 ---
 
-You can also click on an **individual Score**, via the Button at the right side to see more information about the score, such as:
+You can also click on an **individual Score**, via the button at the right side to see more information about the score, such as:
 
 ![Score_info](~@images/beginners-guide/ScoreSaber_3.png)
 
 ---
 
-On the **Top right of the newly opened Window**, you can also **open the Users Profile**, indicated by the "Businesscard icon":
+On the **Top right of the newly opened Window**, you can also **open the Users Profile**, indicated by the card icon:
 
 ![Profile](~@images/beginners-guide/ScoreSaber_4.png)  
 
@@ -80,7 +80,7 @@ On the **Top right of the newly opened Window**, you can also **open the Users P
 
 ### In-Game ScoreSaber Overview
 
-by pressing on the big yellow ScoreSaber Button right at the top of the leaderboard:  
+by pressing on the big yellow ScoreSaber button right at the top of the leaderboard:  
 
 ![Lb_top](~@images/beginners-guide/ScoreSaber_6.png)  
 
