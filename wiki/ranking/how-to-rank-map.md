@@ -2,7 +2,7 @@
 Before you consider pushing your first map for ranked, make sure to first fulfill these basic pre-requisitions:
 
  1. The map is made and fully finished
- 2. The map seems to meet every point from the [ranking criteria](/criteria/)
+ 2. The map seems to meet every point from the [ranking criteria](/ranking/criteria/)
  3. The map was play-tested by players and appear to not have any issues
 
 :::tip
@@ -18,7 +18,7 @@ See [this](https://bit.ly/ScoreSaberModding) guide to get started with modding m
 
 ## Get a mod from a Ranking Team member
 
-Before you contact a ranking team member in order to have your map ranked, please pay attention to their queue rules. A mod is a list of changes to make in a map that are issues within said map. It can range anywhere from playability issues to rank-ability issues with the [ranking criteria](/criteria/). This step can generally take anywhere from an hour to a month depending on ranking team activity and song of choice. You work with the RT member to fix all the ranked issues with the maps and work through any listed playability issues. Generally requests are handled by looking for open ranking queues in ScoreSaber's Discord server. The green circles indicate queues that are open for maps.
+Before you contact a ranking team member in order to have your map ranked, please pay attention to their queue rules. A mod is a list of changes to make in a map that are issues within said map. It can range anywhere from playability issues to rank-ability issues with the [ranking criteria](/ranking/criteria/). This step can generally take anywhere from an hour to a month depending on ranking team activity and song of choice. You work with the RT member to fix all the ranked issues with the maps and work through any listed playability issues. Generally requests are handled by looking for open ranking queues in ScoreSaber's Discord server. The green circles indicate queues that are open for maps.
 
 ![Discord Modding Example](~@images/ranking/how-to-rank-map/discord-modding.png)
 
