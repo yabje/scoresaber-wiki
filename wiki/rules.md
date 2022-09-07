@@ -17,12 +17,12 @@
 ### Mappers with Ranked Maps
 
 :::danger ⚠️ ATTENTION
-If you have one or multiple maps that are ranked, you should never delete or republish said map from being available to players. If you are find deleting one of your ranked maps, you will be considered as unreliable and will then be banned from ranking any maps on ScoreSaber in the future.
+You must never make your ranked maps unavailable to players. If you violate this rule, you will be banned from ranking any maps on ScoreSaber in the future.
 :::
 
 ## What Happens if I Break the Rules?  
 
-You will most likely get banned (either temporary or permanently).
+You will be banned (either temporary or permanently).
 
 
 :::warning If you are currently banned from ScoreSaber Ranking and want to get unbanned, please read the following:

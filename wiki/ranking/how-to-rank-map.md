@@ -74,5 +74,5 @@ At 3 RT upvotes and 0 downvotes your map gets qualified. The map gets increased 
 Congratulations! The 7 days of qualified period has passed, and your map is now considered ranked.
 
 :::danger ⚠️ ATTENTION
-Now that your map is ranked, you should never delete said map from being available to players. If you are find deleting one of your ranked maps, you will be considered as unreliable and will then be banned from ranking any maps on ScoreSaber in the future.
+You must never make your ranked maps unavailable to players. If you violate this rule, you will be banned from ranking any maps on ScoreSaber in the future.
 :::
