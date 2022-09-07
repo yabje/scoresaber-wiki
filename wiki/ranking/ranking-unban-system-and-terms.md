@@ -8,11 +8,11 @@ If a mapper does not wish to be fully unbanned, but will allow other mappers to 
 
 ## Terms
 
--   If a mapper commits another bannable offense during or after the appeal process, that mapper will be permanently banned from both ranking and the appeal process.
+- If a mapper commits another bannable offense during or after the appeal process, that mapper will be permanently banned from both ranking and the appeal process.
 
--   Submitting an appeal does not mean that you will be moved to the appeal process, the ScoreSaber staff holds the right to deny an appeal from any mapper for any reason.
+- Submitting an appeal does not mean that you will be moved to the appeal process, the ScoreSaber staff holds the right to deny an appeal from any mapper for any reason.
 
--   RT/QAT feedback should be responded to within 4 days of receiving the feedback via DM barring external circumstances
+- RT/QAT feedback should be responded to within 4 days of receiving the feedback via DM barring external circumstances
 
 :::tip Info
 To submit a unban request, [open the following form](https://forms.gle/mLmEpxJ25eSabX9R8)

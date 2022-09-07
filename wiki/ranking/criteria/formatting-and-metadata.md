@@ -2,7 +2,6 @@
 
 > Looking for the Mapping Criteria?
  The ScoreSaber Mapping Criteria [can be found here](./mapping-criteria.md)
- 
 
 ## Rules
 :::tip 💡
@@ -124,6 +123,7 @@ songSubName: [ft. Hatsune Miku]
 ```
 
 ### Track has multiple artists
+
 #### Comma separation
 Source metadata must be used, and the artist names should be separated by a whitespace.
 
@@ -143,7 +143,6 @@ vs., VS, and Versus are commonly used to indicate a collaboration between two ar
 songAuthorName: C-Show vs. DJ Genki
 songName: BLACK LABEL
 ```
-
 
 #### With
 With is commonly used to indicate a collaboration between two artists. The source metadata should be followed as is.

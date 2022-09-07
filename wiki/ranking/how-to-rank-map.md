@@ -9,12 +9,9 @@ Before you consider pushing your first map for ranked, make sure to first fulfil
 Once all the above-mentioned points are met, you can go ahead and read the rest of this page on on how to get your map modded and eventually ranked.
 :::
 
-
 ## What is "modding"?
 Modding is a term borrowed from osu!. It is the process of reviewing and providing feedback for a map via editor and/or in-game analysis. Maps have to go through this process to eventually end up ranked in ScoreSaber.
 See [this](https://bit.ly/ScoreSaberModding) guide to get started with modding maps.
-
-
 
 ## Get a mod from a Ranking Team member
 
@@ -51,7 +48,7 @@ If a modder doesn't respond in a week or so feel free to remind them unless they
 ## Put the map in the ranking-queue
 
 Once all of the above is done, it is now time for the ranking team member to add your map into the ranking-queue. This doesn't mean your map will be ranked as is,  but it will eventually end up ranked.
-The ranking team member should in the end be asking you for the leaderboard IDs.   
+The ranking team member should in the end be asking you for the leaderboard IDs.
 
 **Example of a leaderboard ID:**
 

@@ -18,7 +18,6 @@ As the name suggests, the people in the Criteria Assurance Team are in charge of
 
 Generally apart of the Ranking Team, they are the ones in charge of processing some internal interactions with the leaderboards such as denying, replacing and qualifying them, they constantly work towards keeping everything in check. NAT is also the team that moderates RT & QAT by ensuring there is no bias or system abuse.
 
-
 ## How do I join the Ranking Team?
 
 The only way to begin the process of joining the ranking team or a higher role is to first participate in the student program. The student program involves making map mods, and having them reviewed by your mentor. Once you have proven your abilities, your mentor will recommend you for promotion and the entire ranking team will evaluate your progress and vote on your induction as a recruit. If you are interested in become a ranking team student please fill out [this](https://forms.gle/H5AZzvVKFfrBdTpt9 ) form

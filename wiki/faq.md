@@ -24,16 +24,13 @@ There are many reasons as to this is a bad idea. It was attempted in the past an
 
 That means the map is most likely not ranked. If you would like to see those maps ranked in order to gain PP from them, please reach out to the mapper and ask if it could be a possibility for them to push their map for rank via the [ranking process](./ranking-system.md/#ranking-process).
 
-
 ## Why can a map not be unranked?
 
 There are three main reasons why a map cannot be unranked, one benefiting each of the player, mapper, and team. The first reason is because players have to put time into a map to get a good score, and would be discouraged from doing that if there is a threat of the map being unranked. The second is because mappers would likely be less inclined to spend the time pushing a map for rank if their map could be unranked. The last reason is because the ranking team would have to check over every map for every new issue outlined in criteria. This would be a large use of resources which would be better spent ranking new maps, which eventually will make the map pool large enough for players to be able to pick which maps to play.
 
-
 ## How can I get unbanned from ranking maps?
 
 To get unbanned read the terms and conditions stated [here](./ranking/ranking-unban-system-and-terms.md) and submit an unban request in the following form [here](https://forms.gle/mLmEpxJ25eSabX9R8)
-
 
 ## I have feedback that I'd like to give on a map what do I do?
 

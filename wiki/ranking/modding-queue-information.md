@@ -12,7 +12,6 @@ Modding is a term borrowed from *osu!*. It is the process of reviewing and provi
 
 [See this guide](https://bit.ly/ScoreSaberModding) to get started with modding.  
 
-
 ## Requirements & Rules
 Please send `"Dog" (AFriendlyPug#7901)`via Discord the following items when requesting a Modding queue:
 
@@ -20,6 +19,7 @@ Please send `"Dog" (AFriendlyPug#7901)`via Discord the following items when requ
 2. Two map links or two map files. Maps must be serious and have reasonable effort put in.
 :::tip We expect at least basic understanding and use of timing, consistency, and correct use of rhythm choices.
 :::
+
 - Response times can range from 1-5 days.
 
 - If you do not send at least the second item you will not be eligible for a community modding queue.

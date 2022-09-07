@@ -6,8 +6,10 @@ PP is in return awarded to players for submitting a score on ranked maps,. To pr
 ScoreSaber calculates your total PP, which you can see next to your ScoreSaber profile, based on a weighted total of all your ranked map completions. Your highest PP play will give 100% of the PP earned from the play, but every play after that is weighted at a percentage 5% lower than the play above it. The weighting is 0.965^(n-1), where n is the ranking of a specific play amongst all your PP plays. A new play will give PP at the weight based on its position in your ranked plays, but it also pushes down the weighting of play below it. That is why your PP gains for completing ranked maps don’t necessarily sum up with the numbers shown in your profile.
 
 ![PP Curve](~@images/ranking/pp-curve.png)
+
 ### Global Ranking
 A global rank will be assigned to your profile. This rank is based on comparing the total amount of pp earned to every other player from all the active players around the globe.
+
 ### Country Ranking
 A country rank is assigned to your profile based on your location at the moment of setting your first score. This rank, just like your global rank, is based on comparing the total amount of pp earned to every other active player from your country.
 
@@ -18,7 +20,6 @@ When a map is ranked, it is then assigned a Performance Points (commonly referre
 
 ### Unranking process
 There isn't and will not be any unranking process on ScoreSaber. If you're curious as to why, please refer to this question in our [FAQ](./faq.md#why-can-a-map-not-be-unranked). Currently, the only way maps could ever become unranked is if the mapper is banned from ScoreSaber. You can be banned for various reasons such has repeatedly breaking our [rules](./rules.md), or making one of your ranked map unavailable to everyone. Since ScoreSaber does not support sharing custom maps between each-other, we rely on the availability of said map from the creator only.
-
 
 :::tip For any question that was not answered on this page please refer to our
  [FAQ](./faq.md)

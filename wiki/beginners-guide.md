@@ -1,6 +1,7 @@
 # Beginners Guide
 
 ## Installing ScoreSaber
+
 ### PC
 Installing ScoreSaber on Beat Saber is relatively quick and easy. You need to install the mod onto your game, but before you go and install any mod, make sure to run the game at least once. This applies to reinstalling your game too.
 
@@ -10,7 +11,6 @@ Next, it is strongly recommended to use the ModAssistant installer, available [h
 ![Mod Assistant](~@images/modassistant.png)
 
 When this is done installing, you can go ahead and launch Beat Saber.
-
 
 ::: tip Need help with Plugins/Mods?  
 Please head over to the [BSMG Wiki](https://bsmg.wiki/pc-modding.html) for a detailed guide on Modding.  
@@ -23,7 +23,6 @@ After the game is loaded, head over to Solo. If everything went well, you should
 Congratulations! You are now fully ready to use the ScoreSaber mod and submit scores onto custom maps!
 
 Head over to [Using ScoreSaber](./beginners-guide.md#using-scoresaber) to learn more about ScoreSaber's website, mod, and all their functions.
-
 
 ### ScoreSaber for Quest
 
@@ -50,6 +49,7 @@ Please head over to the [BSMG Wiki](https://bsmg.wiki/quest-modding.html) for a 
 ## Using ScoreSaber
 
 **The ScoreSaber website is available at** [https://scoresaber.com/](https://scoresaber.com/)
+
 ### In-Game Song Leaderboards
 ![Leaderboard_full](~@images/beginners-guide/ScoreSaber_1.png)  
 
