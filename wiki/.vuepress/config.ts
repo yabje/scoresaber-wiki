@@ -42,6 +42,7 @@ export default defineUserConfig({
             lastUpdatedText: 'Last Updated',
             navbar: [
                { text: 'Home', link: '/' },
+               { text: 'ScoreSaber', link: 'https://scoresaber.com' },
                { text: 'ScoreSaber Discord', link: 'https://discord.gg/scoresaber' },
             ],
          },
