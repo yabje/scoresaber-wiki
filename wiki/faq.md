@@ -40,6 +40,6 @@ Most mappers are open to feedback, so don't hesitate to DM them through their av
 
 Japan has a long history of rhythm games, thus has many music producers that make music influenced by rhythm games and/or specifically for rhythm games a lot of the times. These songs tend to be high-tempo and include a variety of rhythms to map, which makes them generally more appealing to mappers since they are better and easier to work with. If you're dissatisfied about the current state of the available map pool, be the change you want to see and map the songs of the genres you feel are lacking for ranked.
 
-## Where can i request a new feature or report a bug?
+## Where can I request a new feature or report a bug?
 
 Please open [our canny page](https://scoresaber.canny.io/) for submitting Feature Requests, Website Bug Reports or in-game Bug Reports.
