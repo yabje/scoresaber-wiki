@@ -3,7 +3,7 @@
 ## Earning PP
 PP is in return awarded to players for submitting a score on ranked maps,. To prevent skilled players from grinding hundreds of easier maps worth less PP to rank up, a curve is applied to your plays. This curve is available below, it shows the percentage of points you get relative to the assigned PP value of a map based on your performance on said map.
 
-ScoreSaber calculates your total PP, which you can see next to your ScoreSaber profile, based on a weighted total of all your ranked map completions. Your highest PP play will give 100% of the PP earned from the play, but every play after that is weighted at a percentage 5% lower than the play above it. The weighting is 0.965^(n-1), where n is the ranking of a specific play amongst all your PP plays. A new play will give PP at the weight based on its position in your ranked plays, but it also pushes down the weighting of play below it. That is why your PP gains for completing ranked maps don’t necessarily sum up with the numbers shown in your profile.
+ScoreSaber calculates your total PP, which you can see next to your ScoreSaber profile, based on a weighted total of all your ranked map completions. Your highest PP play will give 100% of the PP earned from the play, but every play after that is weighted at a percentage 5% lower than the play above it. The weighting is `0.965^(n-1)`, where `n` is the ranking of a specific play amongst all your PP plays. A new play will give PP at the weight based on its position in your ranked plays, but it also pushes down the weighting of play below it. That is why your PP gains for completing ranked maps don’t necessarily sum up with the numbers shown in your profile.
 
 ![PP Curve](~@images/ranking/pp-curve.png)
 
