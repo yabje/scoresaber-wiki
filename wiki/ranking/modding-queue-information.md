@@ -13,7 +13,7 @@ Modding is a term borrowed from *osu!*. It is the process of reviewing and provi
 [See this guide](https://bit.ly/ScoreSaberModding) to get started with modding.  
 
 ## Requirements & Rules
-Please send `"Dog" (AFriendlyPug#7901)`via Discord the following items when requesting a Modding queue:
+Please send `"Dog" (AFriendlyPug#7901)` via Discord the following items when requesting a Modding queue:
 
 1. A link to your [ScoreSaber](https://scoresaber.com) account, if it exists.
 2. Two map links or two map files. Maps must be serious and have reasonable effort put in.
