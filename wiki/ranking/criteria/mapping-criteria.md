@@ -82,7 +82,9 @@ Multiple notes of the same color on the same snap must not differ in cut directi
 Notes must not be placed in the pre-cut swing path of a note of the opposite color. [EXAMPLE](./mapping-criteria.md#r-2-b-pre-cut-swing-path)  
 Notes must not be placed inside walls or be completely blocked from the player’s view by walls.  
 A pattern must not induce a variation in swing speed within a single swing.  
-A pattern must not be at a significantly higher effective BPM than what is justified within the rest of the map.  
+A pattern must not be at a significantly higher effective BPM than what is justified within the rest of the map.
+Notes should not be placed in the follow-through path of a note of the opposite color ([EXAMPLE](./mapping-criteria.md#g-1-d-hitboxes)) unless the notes are on the same snap or there is sufficient time for the other color saber to swing clear of the note.  
+No patterns should have a swing path into the bad cut hitbox for a note of the same color in the same swing.
 
 #### C. Walls
 There must not be a wall or combination of walls that force the player to take damage. [EXAMPLE](./mapping-criteria.md#r-2-c-walls-1)  
@@ -174,14 +176,10 @@ Sliders should not have more than one direction change.
 There should be no patterns where the arc of the pre-cut swing on one hand overlaps with the pre-cut swing of the other hand. [EXAMPLE](./mapping-criteria.md#g-1-c-pre-cut-collisions)  
 There should be no patterns where the arc of the follow-through swing on one hand overlaps with the follow-through swing of the other hand. [EXAMPLE](./mapping-criteria.md#g-1-c-follow-through-collisions)
 
-#### D. Hitboxes
-Notes should not be placed in the follow-through path of a note of the opposite color ([EXAMPLE](./mapping-criteria.md#g-1-d-hitboxes)) unless the notes are on the same snap or there is sufficient time for the other color saber to swing clear of the note.  
-No patterns should have a swing path into the bad cut hitbox for a note of the same color in the same swing.
-
-#### E. Vision Blocks
+#### D. Vision Blocks
 Notes and bombs should not impede vision of other interactive objects without an indication and/or implication of where and what the blocked objects will be.
 
-#### F. Emphasis
+#### E. Emphasis
 Patterns and sections of a map should not excessively overrepresent the music.  
 Patterns and sections of a map should not excessively exceed the difficulty of the rest of the map unless supported by the music.
 
