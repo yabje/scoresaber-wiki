@@ -80,11 +80,11 @@ Multiple notes of the same color on the same swing must not be parallel to one a
 If there are multiple notes of the same color on the same swing, each note must lead into the expected cut direction of the next note.  
 Multiple notes of the same color on the same snap must not differ in cut direction from each other by more than 45 degrees.  
 Notes must not be placed in the pre-cut swing path of a note of the opposite color. [EXAMPLE](./mapping-criteria.md#r-2-b-pre-cut-swing-path)  
-Notes must not be placed inside walls or be completely blocked from the player’s view by walls.  
-A pattern must not induce a variation in swing speed within a single swing.  
-A pattern must not be at a significantly higher effective BPM than what is justified within the rest of the map.
+Notes must not be placed inside walls or be completely blocked from the player’s view by walls.
 Notes should not be placed in the follow-through path of a note of the opposite color ([EXAMPLE](./mapping-criteria.md#g-1-d-hitboxes)) unless the notes are on the same snap or there is sufficient time for the other color saber to swing clear of the note.  
 No patterns should have a swing path into the bad cut hitbox for a note of the same color in the same swing.
+A pattern must not induce a variation in swing speed within a single swing.  
+A pattern must not be at a significantly higher effective BPM than what is justified within the rest of the map.
 
 #### C. Walls
 There must not be a wall or combination of walls that force the player to take damage. [EXAMPLE](./mapping-criteria.md#r-2-c-walls-1)  
