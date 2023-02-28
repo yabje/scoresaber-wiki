@@ -13,6 +13,6 @@ jobs:
               ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
               TARGET_REPO: ScoreSaber/ScoreSaber-Wiki
               TARGET_BRANCH: deployment
-              BUILD_SCRIPT: npm install && npm run wiki:build
+              BUILD_SCRIPT: git config --global --add safe.directory "*" && npm install && npm run wiki:build
               BUILD_DIR: wiki/.vuepress/dist
               CNAME: https://wiki.scoresaber.com
