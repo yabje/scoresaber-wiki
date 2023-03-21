@@ -26,7 +26,7 @@ Head over to [Using ScoreSaber](./beginners-guide.md#using-scoresaber) to learn 
 
 ### ScoreSaber for Quest
 
-::: warning ScoreSaber for Quest supports versions <Badge type="warning" text="1.27.0" vertical="middle"/> and <Badge type="warning" text="1.28.0" vertical="middle"/>. If you are on any other version the mod will not work!<br/>⚠️ Do not put your Steam/Oculus login information into anything that isn't Steam/Oculus!
+::: warning Make sure you're on the exact version ScoreSaber was made for otherwise it will not work!<br/>⚠️ Do not put your Steam/Oculus login information into anything that isn't Steam/Oculus!
 :::
 
 ---
