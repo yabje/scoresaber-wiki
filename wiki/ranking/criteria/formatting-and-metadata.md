@@ -20,7 +20,7 @@ songName: Song name
 songSubName: All following tags: (Short Ver.), (ft. Hatsune Miku), etc.
 ```
 
-If there are multiple tags, then put them alongside each other in the songSubName in any order. Do not add any tags that are not specified in this document or the official metadata. The type(s) of brackets used in tags, if used, should follow the official metadata if available.
+If there are multiple tags, then put them alongside each other in the songSubName in any order. Do not add any tags that are not specified in this document or the official metadata. The type(s) of brackets and other typographical marks used in tags, if used, should follow the official metadata if available.
 
 ### *Example:*
 
