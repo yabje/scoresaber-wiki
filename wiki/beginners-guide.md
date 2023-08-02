@@ -26,15 +26,7 @@ Head over to [Using ScoreSaber](./beginners-guide.md#using-scoresaber) to learn 
 
 ### ScoreSaber for Quest
 
-:::danger ScoreSaber for Quest is currently only available for Beat Saber Version <Badge type="danger" text="1.17.1" vertical="middle" />
-The release for newer versions of the Game is **currently in development.**
-If you want to currently use ScoreSaber on Quest, you have to downgrade your Beat Saber to <Badge type="danger" text="1.17.1" vertical="middle" />.  
-The easiest method to get to the right version, is to open the [OculusDB Downgrading Guide](https://oculusdb.rui2015.me/guide), select Quest as the headset, and follow the steps.
-
-If you still need help with or have issues with **downgrading**, please go to the [BSMG Discord](https://discord.gg/beatsabermods).
-:::
-
-::: warning ⚠️ Do not put your Steam/Oculus login information into anything that isn't Steam/Oculus!
+::: warning Make sure you're on the exact version ScoreSaber was made for otherwise it will not work!<br/>⚠️ Do not put your Steam/Oculus login information into anything that isn't Steam/Oculus!
 :::
 
 ---
