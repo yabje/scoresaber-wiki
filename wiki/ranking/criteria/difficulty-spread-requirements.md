@@ -6,9 +6,9 @@
 ## Explanation
 A mapset must contain a reasonable difficulty progression starting from the highest  difficulty level submitted for rank and ending at or below the lowest difficulty level required for the song's length, following the rules outlined in Progression Requirements.
 
-- Difficulty is measured in Swings per Second (SPS) with the Swings per Second Calculator. Place the calculator inside the map folder or a folder containing the zipped map files and run, or run the calculator on the command line with “--help” to see more options. The overall combined SPS is considered the SPS for the map.
+- Difficulty is measured in Swings per Second (SPS) with the [Swings per Second Calculator](https://drive.google.com/file/d/1xFjZRlwKPS078ZZe5G1-5xW9Pb2FYB1Q/view?usp=drivesdk). Place the calculator inside the map folder or a folder containing the zipped map files and run, or run the calculator on the command line with “--help” to see more options. The overall combined SPS is considered the SPS for the map.
   - If it does not print, it is likely because there are special characters in the info.dat. Workaround: Run the calculator on the zipped files instead.
-  - Source Code if you would like to build it yourself or run on a non-Windows platform.
+  - [Source Code](https://drive.google.com/file/d/1T1oa2FBGlmJhVrCkA1vAMfhpgUE4OAvB/view?usp=drivesdk) if you would like to build it yourself or run on a non-Windows platform.
 - Song length is defined as the length listed in the official metadata of the song, or the time difference between the start of the first significant musical element and the end of the last significant musical element if the official metadata is not available.
 
 ## Lowest Required Difficulty Level
