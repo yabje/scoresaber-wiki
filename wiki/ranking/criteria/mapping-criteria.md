@@ -203,7 +203,7 @@ Varying the mapping as the music changes is important to musical representation.
 This does not require that patterns must change with every change in the music, nor does it disallow variation in sections where the music stays the same.
 
 ### 3. Emphasis
-The patterns used should reflect the intensity level of the music being mapped.  
+The patterns & lighting used should reflect the intensity level of the music being mapped.  
 The intensity of the mapping in each section relative to other sections should be somewhat in line with the intensity of the music. Deviation is allowed as long as a section’s intensity is not excessively raised or lowered relative to the intensity of the rest of the song.
 
 ## Appendix
