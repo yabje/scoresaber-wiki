@@ -45,7 +45,7 @@ Formatting for referencing criteria is as follows:
 **Undermapping**: Mapping to a subset of timings of the instrument(s) that are being followed.
 
 ### Patterns
-**Objects**: Bombs, notes, or walls.  
+**Objects**: Bombs, notes, walls or arcs.  
 **Interactive Objects**: Bombs and notes, as well as walls that force you to dodge or duck.  
 **Hitbox**: An invisible box around an object that is used to detect collisions and cuts.  
 **Swing path**: The path of a swing used to hit a note. Can be divided into the Pre-cut swing and the follow-through swing.  
@@ -69,6 +69,7 @@ Formatting for referencing criteria is as follows:
 Maps must not require the use of any external mods or programs to play.  
 Maps must be designed to be played without any gameplay modifiers.  
 Maps must be ‘Standard’ game mode maps.  
+Note jump speed must remain constant within each difficulty.  
 
 ### 2. Patterns
 
@@ -81,10 +82,13 @@ If there are multiple notes of the same color on the same swing, each note must 
 Multiple notes of the same color on the same snap must not differ in cut direction from each other by more than 45 degrees.  
 Notes must not be placed in the pre-cut swing path of a note of the opposite color. [EXAMPLE](./mapping-criteria.md#r-2-b-pre-cut-swing-path)  
 Notes should not be placed in the follow-through path of a note of the opposite color ([EXAMPLE](./mapping-criteria.md#g-1-d-hitboxes)) unless the notes are on the same snap or there is sufficient time for the other color saber to swing clear of the note.  
-No patterns should have a swing path into the bad cut hitbox for a note of the same color in the same swing.
-Notes must not be placed inside walls or be completely blocked from the player’s view by walls.
+No patterns should have a swing path into the bad cut hitbox for a note of the same color in the same swing.  
+Notes must not be placed inside walls or be completely blocked from the player’s view by walls.  
 A pattern must not induce a variation in swing speed within a single swing.  
-A pattern must not be at a significantly higher effective BPM than what is justified within the rest of the map.
+A pattern must not be at a significantly higher effective BPM than what is justified within the rest of the map.  
+Dot notes must use angle offsets divisible by 45 degrees.  
+Arrow notes must have an angle offset of 0.  
+Dot notes will be treated as having the most direct possible swing direction of the four face-centered swing directions allowed by the notes orientation. This rule does not apply to the notes at the direction change of curved sliders. [EXAMPLE](./mapping-criteria.md#r-2-b-dot-note-swing-direction)  
 
 #### C. Walls
 There must not be a wall or combination of walls that force the player to take damage. [EXAMPLE](./mapping-criteria.md#r-2-c-walls-1)  
@@ -92,6 +96,7 @@ There must not be a wall or combination of walls that force the player into the 
 Walls must have positive width.  
 Interactive walls must have a duration of at least 15ms. That allows for 1/16 precision up to 250BPM and ⅛ precision up to 500BPM.  
 No part of a wall can lie outside the 4x3 grid.  
+Walls must be one of the two standard heights. Full height or crouch wall height. [EXAMPLE](./mapping-criteria.md#r-2-c-walls-1)  
 
 #### D. Bombs
 Bombs must not be placed such that they interfere with the pre-cut or follow-through swing for a note.  
@@ -99,6 +104,19 @@ Bombs must not be placed in a way that forces a saber to stay outside the 4x3 gr
 Bombs must be accompanied with an acceptable level of lighting.  
 Bombs must not be placed inside of walls or be completely blocked from the player’s view by walls.  
 Bombs may not overlap with other objects in game and must be placed at least 20 ms apart from other bombs in the same space. If the NJS is not too low,   that allows for 1/16 precision up to 180 BPM and ⅛ precision up to 360 BPM.  
+
+#### E. Arcs
+Arcs must be connected to a note.  
+Arcs must not be active with notes of the same color not connected with the arc.  
+There can at most be one arc active per hand.  
+Direction of the arc must match the arrow direction. For dot notes the arc must follow the direction of parity.  
+Arcs must not be attached to multinote hits.  
+Notes connected by an arc must be rankable even if the arc was removed.  
+Head and tail multipliers must not be less than 0.1 or exceed 1.5.  
+Arcs must not be misleading. [EXAMPLE](./mapping-criteria.md#r-2-e-misleading-arcs)  
+
+#### F. Chains
+See [technical limitations](./technical-limitations-criteria.md#current-limits)
 
 ### 3. Timing
 
@@ -177,7 +195,7 @@ There should be no patterns where the arc of the pre-cut swing on one hand overl
 There should be no patterns where the arc of the follow-through swing on one hand overlaps with the follow-through swing of the other hand. [EXAMPLE](./mapping-criteria.md#g-1-c-follow-through-collisions)
 
 #### D. Vision Blocks
-Notes and bombs should not impede vision of other interactive objects without an indication and/or implication of where and what the blocked objects will be.
+No object should impede vision of other interactive objects without an indication and/or implication of where and what the blocked objects will be.
 
 #### E. Emphasis
 Patterns and sections of a map should not excessively overrepresent the music.  
@@ -190,6 +208,9 @@ Walls should correspond to a musical element.
 
 #### B. Bombs
 Bombs should be mapped to a musical element unless used to clarify a reset or set up for a subsequent pattern. In those cases, the bombs should be mapped to a musical element wherever possible.
+
+#### C. Arcs
+Arcs should correspond to a musical element.
 
 ## Addendum
 
@@ -227,31 +248,53 @@ When a note is vision blocked, the cut direction should always be deducible from
 #### Slider Examples
 ![Slider Examples](~@images\ranking\mapping-criteria\Picture1.png)
 
-##### R.2.B (Parallel Notes)
+#### R.2.B (Parallel Notes)
 These are examples of parallel same color notes on the same snap.  
 ![Parallel Notes](~@images\ranking\mapping-criteria\Picture2.png)
 
-##### R.2.B (Pre-cut Swing Path)
+#### R.2.B (Pre-cut Swing Path)
 The blue note is in the pre-cut swing path of the red note.  
 ![Pre-cut Swing Path](~@images\ranking\mapping-criteria\Picture3.png)
 
-##### R.2.C (Walls)
-These walls force the player to take damage because there is no space for the player to pass through.  
-![Walls](~@images\ranking\mapping-criteria\Picture4.png)
+#### R.2.B (Dot Note Swing Direction)
+Examples of dot orientations that are not allowed.  
 
-##### R.2.D (Bombs)
+Corner to corner vertical dots.  
+![Angled Tower](~@images\ranking\mapping-criteria\Angled-Dot-Tower.png)  
+
+Implicit circling causing hitbox issue.  
+![Dot Hitbox Circle](~@images\ranking\mapping-criteria\dot-hitbox-circle.png)  
+
+Corner to corner diagonal dots.  
+![Unangled Slider](~@images\ranking\mapping-criteria\unangled-slider.png)  
+
+#### R.2.C (Walls)
+These walls force the player to take damage because there is no space for the player to pass through.  
+![Walls](~@images\ranking\mapping-criteria\Picture4.png)  
+
+Full height wall and a crouch wall.  
+![Example walls](~@images\ranking\mapping-criteria\walls.png)
+
+#### R.2.D (Bombs)
 These bombs that force a saber to stay outside the 4x3 grid in order to avoid contact.  
 ![Bombs](~@images\ranking\mapping-criteria\Picture5.png)
 
-##### G.1.C (Pre-cut Collisions)
+#### R.2.E (Misleading Arcs)
+Arc ends prematurely, misleading the player about scoring.  
+![Premature-arc](~@images\ranking\mapping-criteria\arc-premature-end.png)  
+
+Arc suggesting a swing through an opposite colored note.  
+![Arc through note](~@images\ranking\mapping-criteria\arc-through-note.png)  
+
+#### G.1.C (Pre-cut Collisions)
 The arcs of the pre-cut swings overlap.  
 ![Pre-cut Collisions](~@images\ranking\mapping-criteria\Picture6.png)
 
-##### G.1.C (Follow-through Collisions)
+#### G.1.C (Follow-through Collisions)
 The arcs of the follow-through swings overlap.  
 ![Follow-through Collisions](~@images\ranking\mapping-criteria\Picture7.png)
 
-##### G.1.D (Hitboxes)
+#### G.1.D (Hitboxes)
 The red up note is in the follow-through path of the blue up note.  
 ![Hitboxes](~@images\ranking\mapping-criteria\Picture8.png)
 
