@@ -5,7 +5,7 @@
 ## Current Limits
 
 :::warning ⚠️
-Until further notice the new map format will be unrankable. This will stay in place until we have adjusted the criteria and made/updated tools for the new format.
+Until further notice the new v4 map format will be unrankable. This will stay in place until we have updated tools for the new format and the community has standardized it.
 :::
 
 - Maps must not break **350 BPM sustained**
