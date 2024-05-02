@@ -12,6 +12,7 @@ Until further notice the new map format will be unrankable. This will stay in pl
 - Maps must not break **13.5⭐difficulty**
 - Maps must not break **11.5⭐difficulty** without a QAT upvote on all ranked difficulties and receive 2/3 approval by RT and QAT
 - Current limit for map length is **10 minutes**
+- Maps must not contain chains.
 
 ## Burst Criteria
 
