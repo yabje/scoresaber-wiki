@@ -88,7 +88,7 @@ A pattern must not induce a variation in swing speed within a single swing.
 A pattern must not be at a significantly higher effective BPM than what is justified within the rest of the map.  
 Dot notes must use angle offsets divisible by 45 degrees.  
 Arrow notes must have an angle offset of 0.  
-Dot notes will be treated as having the most direct possible swing direction of the four face-centered swing directions allowed by the notes orientation. This rule does not apply to the notes at the direction change of curved sliders. [EXAMPLE](./mapping-criteria.md#r-2-b-dot-note-swing-direction)  
+Dot notes will be treated as having the most direct possible swing direction of the four face-centered swing directions allowed by the notes orientation. This rule does not apply to multinote hits. [EXAMPLE](./mapping-criteria.md#r-2-b-dot-note-swing-direction)  
 
 #### C. Walls
 There must not be a wall or combination of walls that force the player to take damage. [EXAMPLE](./mapping-criteria.md#r-2-c-walls-1)  
@@ -201,6 +201,10 @@ No object should impede vision of other interactive objects without an indicatio
 Patterns and sections of a map should not excessively overrepresent the music.  
 Patterns and sections of a map should not excessively exceed the difficulty of the rest of the map unless supported by the music.
 
+#### F. Multinote Hits
+The direction of dot notes in multinote hits should accurately and consistently represent the sounds they are mapped to through the map.  
+In a multinote hit, all notes should visually be indicated to be part of the same swing.
+
 ### 2. Timing
 
 #### A. Walls
@@ -257,16 +261,8 @@ The blue note is in the pre-cut swing path of the red note.
 ![Pre-cut Swing Path](~@images\ranking\mapping-criteria\Picture3.png)
 
 #### R.2.B (Dot Note Swing Direction)
-Examples of dot orientations that are not allowed.  
-
-Corner to corner vertical dots.  
-![Angled Tower](~@images\ranking\mapping-criteria\Angled-Dot-Tower.png)  
-
-Implicit circling causing hitbox issue.  
+The implicit circling of the dot notes causes a hitbox issue.   
 ![Dot Hitbox Circle](~@images\ranking\mapping-criteria\dot-hitbox-circle.png)  
-
-Corner to corner diagonal dots.  
-![Unangled Slider](~@images\ranking\mapping-criteria\unangled-slider.png)  
 
 #### R.2.C (Walls)
 These walls force the player to take damage because there is no space for the player to pass through.  
