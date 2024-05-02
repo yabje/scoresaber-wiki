@@ -202,7 +202,8 @@ Patterns and sections of a map should not excessively overrepresent the music.
 Patterns and sections of a map should not excessively exceed the difficulty of the rest of the map unless supported by the music.
 
 #### F. Multinote Hits
-The direction of dot notes in multinote hits should accurately and consistently represent the sounds they are mapped to through the map.
+The direction of dot notes in multinote hits should accurately and consistently represent the sounds they are mapped to through the map.  
+In a multinote hit, all notes should visually be indicated to be part of the same swing.
 
 ### 2. Timing
 
