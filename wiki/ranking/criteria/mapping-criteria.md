@@ -81,7 +81,7 @@ Multiple notes of the same color on the same swing must not be parallel to one a
 If there are multiple notes of the same color on the same swing, each note must lead into the expected cut direction of the next note.  
 Multiple notes of the same color on the same snap must not differ in cut direction from each other by more than 45 degrees.  
 Notes must not be placed in the pre-cut swing path of a note of the opposite color. [EXAMPLE](./mapping-criteria.md#r-2-b-pre-cut-swing-path)  
-Notes should not be placed in the follow-through path of a note of the opposite color ([EXAMPLE](./mapping-criteria.md#g-1-d-hitboxes)) unless the notes are on the same snap or there is sufficient time for the other color saber to swing clear of the note.  
+Notes should not be placed in the follow-through path of a note of the opposite color ([EXAMPLE](./mapping-criteria.md#r-2-b-hitboxes)) unless the notes are on the same snap or there is sufficient time for the other color saber to swing clear of the note.  
 No patterns should have a swing path into the bad cut hitbox for a note of the same color in the same swing.  
 Notes must not be placed inside walls or be completely blocked from the player’s view by walls.  
 A pattern must not induce a variation in swing speed within a single swing.  
@@ -260,6 +260,10 @@ These are examples of parallel same color notes on the same snap.
 The blue note is in the pre-cut swing path of the red note.  
 ![Pre-cut Swing Path](~@images\ranking\mapping-criteria\Picture3.png)
 
+#### R.2.B (Hitboxes)
+The red up note is in the follow-through path of the blue up note.  
+![Hitboxes](~@images\ranking\mapping-criteria\Picture8.png)
+
 #### R.2.B (Dot Note Swing Direction)
 The implicit circling of the dot notes causes a hitbox issue.   
 ![Dot Hitbox Circle](~@images\ranking\mapping-criteria\dot-hitbox-circle.png)  
@@ -289,10 +293,6 @@ The arcs of the pre-cut swings overlap.
 #### G.1.C (Follow-through Collisions)
 The arcs of the follow-through swings overlap.  
 ![Follow-through Collisions](~@images\ranking\mapping-criteria\Picture7.png)
-
-#### G.1.D (Hitboxes)
-The red up note is in the follow-through path of the blue up note.  
-![Hitboxes](~@images\ranking\mapping-criteria\Picture8.png)
 
 ### Links
 
