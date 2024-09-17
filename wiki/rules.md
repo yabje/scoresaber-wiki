@@ -18,6 +18,8 @@
 
 :::danger ⚠️ ATTENTION
 You must never make your ranked maps unavailable to players. If you violate this rule, you will be banned from ranking any maps on ScoreSaber in the future.
+
+This does include maps that are technically ranked by having been qualified for more than 7 days, but have not been assigned a star rating yet.
 :::
 
 ## What Happens if I Break the Rules?  
