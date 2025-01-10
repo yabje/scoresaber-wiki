@@ -95,8 +95,8 @@ There must not be a wall or combination of walls that force the player to take d
 There must not be a wall or combination of walls that force the player into the outside lanes of the playfield.  
 Walls must have positive width.  
 Interactive walls must have a duration of at least 15ms. That allows for 1/16 precision up to 250BPM and ⅛ precision up to 500BPM.  
-No part of a wall can lie outside the 4x3 grid.  
-Walls must be one of the two standard heights. Full height or crouch wall height. [EXAMPLE](./mapping-criteria.md#r-2-c-walls-1)  
+Walls in the 4x3 grid must be one of the two standard heights. Full height or crouch wall height. [EXAMPLE](./mapping-criteria.md#r-2-c-walls-1)  
+A wall inside the 4x3 grid must not extend outside it.  
 
 #### D. Bombs
 Bombs must not be placed such that they interfere with the pre-cut or follow-through swing for a note.  
@@ -108,9 +108,10 @@ Bombs may not overlap with other objects in game and must be placed at least 20 
 #### E. Arcs
 Arcs must be connected to a note.  
 Arcs must not be active with notes of the same color not connected with the arc.  
-There can at most be one arc active per hand.  
-Direction of the arc must match the arrow direction. For dot notes the arc must follow the direction of parity.  
-Arcs must not be attached to multinote hits.  
+There can be at most five arcs active per hand.  
+Direction of the arc must match the arrow direction. For dot notes the arc must follow the direction of parity or be neutral (i.e. arc direction 8). Any additional outgoing arcs may differ up to a maximum of 45 degrees away from this direction.  
+The only note in a multinote hit allowed to be attached to an incoming arc is the first note.  
+The only note in a multinote hit allowed to be attached to an outgoing arc is the last note.  
 Notes connected by an arc must be rankable even if the arc was removed.  
 Head and tail multipliers must not be less than 0.1 or exceed 1.5.  
 Arcs must not be misleading. [EXAMPLE](./mapping-criteria.md#r-2-e-misleading-arcs)  
@@ -241,7 +242,7 @@ Fake walls, which have negative width, are not allowed because they are not an i
 Fast walls, which have negative duration, are not allowed because they are not an intended part of the base game.
 
 #### R.6.A (Lighting)
-Sufficient lighting means that some form of lighting that follows the music should be present in sections of the map that contain interactive objects.   Any form of automatic light generation that creates lighting that fits this criteria is allowed.
+Sufficient lighting means that some form of lighting that follows the music should be present in sections of the map that contain interactive objects. Any form of automatic light generation that creates lighting that fits this criteria is allowed.
 
 #### G.1.E (Vision Blocks)
 When a note is vision blocked, the location should always be deducible from previous note placements.  
@@ -265,7 +266,7 @@ The red up note is in the follow-through path of the blue up note.
 ![Hitboxes](~@images\ranking\mapping-criteria\Picture8.png)
 
 #### R.2.B (Dot Note Swing Direction)
-The implicit circling of the dot notes causes a hitbox issue.   
+The implicit circling of the dot notes causes a hitbox issue.  
 ![Dot Hitbox Circle](~@images\ranking\mapping-criteria\dot-hitbox-circle.png)  
 
 #### R.2.C (Walls)

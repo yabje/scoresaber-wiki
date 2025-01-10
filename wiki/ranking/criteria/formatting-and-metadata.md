@@ -225,25 +225,32 @@ songName: Possesed By The Blood Moon
 Official metadata should be used in all fields, even if it contains unsearchable characters, as long as there is a significant string of searchable characters in each field. In all cases, **official translations** of metadata, as well as **romanization**, can both be used at the mapper's discretion. "Significant string" will be defined on a case-by-case basis where searchability of the string is prioritized.  
 
 ### *Example of acceptable, searchable metadata:*  
+
 ```:no-line-numbers
 levelAuthorName: Uninstaller
 songAuthorName: KIVΛ
 songName: Code:11
 ```
+
 ### *Other examples of searchable metadata:*  
+
 ```:no-line-numbers
 XHRONOXAPSULΞ, t+pazolite, ΩΩPARTS, †:OLPHEUX:†, +ERABY+E CONNEC+10N, AμreoLe ~for Triumph~, \frac{\textup{sig}=\frac{821}{149}}{bpm\approx533}, 嚮導BRING+瞳EYES=死DEATH+齎INVITE
 ```
+
 If the official metadata for any field does not contain any searchable characters, then official translations or romanization should be used. We will use "ヒアソビ" by かめりあ as an example here.
 
 ### *Example of official translation:*  
+
 ```:no-line-numbers
 levelAuthorName: Amanatsu
 songAuthorName: Camellia
 songName: Play with Fire
 ```  
+
 ### *Example of romanization:*  
-```:no-line-numbers 
+
+```:no-line-numbers
 levelAuthorName: Amanatsu
 songAuthorName: Camellia
 songName: Hiasobi
@@ -252,7 +259,8 @@ songName: Hiasobi
 All cases where a map would break any metadata criteria, but cannot be changed in a way that would adhere to the metadata criteria for any reason, will be handled on a case-by-case basis.
 
 ### *Example:*  
-```:no-line-numbers 
+
+```:no-line-numbers
 levelAuthorName: Skeelie
 songAuthorName: x0o0x_
 songName: / / // / /
