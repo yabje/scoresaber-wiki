@@ -39,11 +39,14 @@ tags:
 * [Modding Queue Information](./ranking/modding-queue-information.md)
 * [ScoreSaber Team Information](./ranking/scoresaber-team-information.md)
 * [Ranking Unban System and Terms](./ranking/ranking-unban-system-and-terms.md)
+* [Reweights](./ranking/reweights.md)
+
 :::
 
 ::: feature Other Resources
 
 * [About Us](./about-us.md)
+
 :::
 
 </div>
@@ -57,5 +60,6 @@ tags:
 * [Trello](https://trello.com/b/Jd9EdIml/scoresaber-development) - Track ScoreSaber development on Trello
 * [Canny](https://scoresaber.canny.io/) - Suggest a feature or submit bug reports
 * [Patreon](https://patreon.com/scoresaber) - Support us on Patreon ❤️
-* [Twitter](https://patreon.com/scoresaber) - Follow us on Twitter
+* [X](https://x.com/ScoreSaber) - Follow us on X
+* [YouTube](https://www.youtube.com/@ScoreSaberOfficial) - Subscribe to us on YouTube
 * [BSMG Wiki](https://bsmg.wiki/)
