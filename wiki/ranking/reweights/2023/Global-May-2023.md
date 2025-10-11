@@ -1,4 +1,4 @@
-# ⭐ Global Reweight - Star Reweight Changes - 21 May 2023
+# Global Reweight - 21 May 2023
 
 | <div style="width:325px">Map Name</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
 |-----|------------|-----------|---------------------------------------------------|

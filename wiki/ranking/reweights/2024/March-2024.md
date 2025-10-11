@@ -1,4 +1,4 @@
-# ⭐ Star Reweight Changes - 18 March 2024
+# Monthly Reweight - 18 March 2024
 
 | <div style="width:325px">Map Name</div> | <div style="width:75px">Difficulty</div> | <div style="width:200px">Mapper(s)</div> | <div style="width:175px">Star Rating Change</div> |
 |-----|------------|-----------|---------------------------------------------------|
