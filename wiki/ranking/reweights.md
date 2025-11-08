@@ -15,6 +15,8 @@ Within each page, the maps are sorted by their ratings before the reweight.
 
 ### 2025
 
+[Monthly Reweight - 8 November 2025](./reweights/2025/November-2025.md)
+
 [Monthly Reweight - 11 October 2025](./reweights/2025/October-2025.md)
 
 [Monthly Reweight - 14 September 2025](./reweights/2025/September-2025.md)
