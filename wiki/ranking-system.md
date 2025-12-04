@@ -19,7 +19,7 @@ The [Ranking Team](./ranking/scoresaber-team-information.md#ranking-team-rt) ran
 When a map is ranked, it is then assigned a Performance Points (commonly referred to as *PP*) value based on an algorithm which determines the difficulty of said map, this is based on a variety of different factors.
 
 ### Unranking process
-There isn't and will not be any unranking process on ScoreSaber. If you're curious as to why, please refer to this question in our [FAQ](./faq.md#why-can-a-map-not-be-unranked). Currently, the only way maps could ever become unranked is if the mapper is banned from ScoreSaber. You can be banned for various reasons such has repeatedly breaking our [rules](./rules.md), or making one of your ranked map unavailable to everyone. Since ScoreSaber does not support sharing custom maps between each-other, we rely on the availability of said map from the creator only.
+There isn't and will not be any unranking process on ScoreSaber. If you're curious as to why, please refer to this question in our [FAQ](./faq.md#why-can-a-map-not-be-unranked). Currently, the only way maps could ever become unranked is if the mapper is banned from ScoreSaber. You can be banned for various reasons such as repeatedly breaking our [rules](./rules.md), or making one of your ranked maps unavailable to everyone. Since ScoreSaber does not support sharing custom maps between each-other, we rely on the availability of said map from the creator only.
 
 :::tip For any question that was not answered on this page please refer to our
  [FAQ](./faq.md)
