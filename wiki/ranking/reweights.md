@@ -2,9 +2,10 @@
 
 With each monthly batch, maps are getting reweighted to correct their star ratings.
 Our current reweight policy is as follows:
-- All maps get reweighted once (a month after they are ranked).
-- Maps above 12 stars get reweighted an additional time the month after.
-- Maps above 14 stars get reweighted a third time the third month after they are ranked.
+
+-  All maps get reweighted once (a month after they are ranked).
+-  Maps above 12 stars get reweighted an additional time the month after.
+-  Maps above 14 stars get reweighted a third time the third month after they are ranked.
 
 Further there are sometimes global reweights that (potentially) rebalance all maps.
 
@@ -14,6 +15,8 @@ Here you can find all reweights since the release of monthly batches in 2022.
 Within each page, the maps are sorted by their ratings before the reweight.
 
 ### 2025
+
+[Monthly Reweight - 13 December 2025](./reweights/2025/December-2025.md)
 
 [Monthly Reweight - 8 November 2025](./reweights/2025/November-2025.md)
 
