@@ -14,6 +14,10 @@ Further there are sometimes global reweights that (potentially) rebalance all ma
 Here you can find all reweights since the release of monthly batches in 2022.
 Within each page, the maps are sorted by their ratings before the reweight.
 
+### 2026
+
+[Monthly Reweight - 17 January 2026](./reweights/2026/January-2026.md)
+
 ### 2025
 
 [Monthly Reweight - 13 December 2025](./reweights/2025/December-2025.md)
