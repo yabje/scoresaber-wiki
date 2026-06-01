@@ -7,13 +7,14 @@
   "scripts": {
     "lint:md": "markdownlint content/docs/",
     "lint:md:fix": "markdownlint --fix content/docs/",
-    "dev": "next dev",
-    "build": "fumadocs-mdx && _FUMADOCS_MDX=1 next build && bun run build:aliases",
+    "dev": "bun run i18n:generate && next dev",
+    "build": "bun run i18n:generate && fumadocs-mdx && _FUMADOCS_MDX=1 next build && bun run build:aliases",
     "start": "serve out",
-    "typecheck": "fumadocs-mdx && _FUMADOCS_MDX=1 next typegen && tsc --noEmit",
-    "postinstall": "fumadocs-mdx",
+    "typecheck": "bun run i18n:generate && fumadocs-mdx && _FUMADOCS_MDX=1 next typegen && tsc --noEmit",
+    "postinstall": "bun run i18n:generate && fumadocs-mdx",
     "lint": "oxlint src scripts source.config.ts next.config.mjs postcss.config.mjs",
     "build:aliases": "bun scripts/create-static-aliases.ts",
+    "i18n:generate": "bun scripts/generate-active-locales.ts",
     "format": "oxfmt .",
     "format:check": "oxfmt --check .",
     "prepare": "husky"
