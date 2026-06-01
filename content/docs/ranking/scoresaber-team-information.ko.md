@@ -14,7 +14,7 @@ title: "ScoreSaber 팀 정보"
 
 ### 기준 보증 팀 (Criteria Assurance Team, CAT)
 
-이름에서 알 수 있듯이, 기준 보증 팀의 사람들은 [랭킹 기준](/ranking/criteria/)을 유지·관리하는 일을 담당합니다. 본질적으로 [랭킹 기준](/ranking/criteria/)을 작성하는 사람들이기도 합니다. CAT가 결정한 모든 변경 사항은 NAT와 ScoreSaber 관리자(Admin)의 승인을 받아야 합니다.
+이름에서 알 수 있듯이, 기준 보증 팀의 사람들은 [랭킹 기준](./criteria/index.md)을 유지·관리하는 일을 담당합니다. 본질적으로 [랭킹 기준](./criteria/index.md)을 작성하는 사람들이기도 합니다. CAT가 결정한 모든 변경 사항은 NAT와 ScoreSaber 관리자(Admin)의 승인을 받아야 합니다.
 
 ### 노미네이션 평가 팀 (Nomination Assessment Team, NAT)
 

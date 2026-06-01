@@ -25,7 +25,7 @@ export default async function Page({ params }: PageProps) {
   const markdown = await getLLMText(page);
 
   return (
-    <DocsPage toc={page.data.toc} full={page.data.full}>
+    <DocsPage lang={parsed.locale} toc={page.data.toc} full={page.data.full}>
       <div className="docs-page-heading">
         <DocsTitle>{page.data.title}</DocsTitle>
         <CopyMarkdownButton markdown={markdown} />

@@ -58,7 +58,7 @@ const content: HomeContent = {
 
 export default function Page() {
   return (
-    <main className="home-shell">
+    <main className="home-shell" lang="ko">
       <section className="home-hero" aria-labelledby="home-title">
         <div className="home-logo">
           <Image src="/scoresaber.svg" width={96} height={96} alt="" priority />

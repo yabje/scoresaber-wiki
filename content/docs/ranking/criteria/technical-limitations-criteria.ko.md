@@ -39,5 +39,5 @@ title: "기술적 제한 기준"
 - 425 BPM을 초과하는 버스트
 
 :::tip[팁]
-현재 랭킹 대기열 과정 및 규칙은 [여기에서 확인할 수 있습니다](/ranking/ranking-queue-rules.md)
+현재 랭킹 대기열 과정 및 규칙은 [여기에서 확인할 수 있습니다](../ranking-queue-rules.md)
 :::

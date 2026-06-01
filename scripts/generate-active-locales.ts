@@ -70,6 +70,6 @@ function hasTranslatedFile(locale: string, dir = docsDir): boolean {
 const activeLocales = supportedLocales.filter(
   (locale) => locale === "en" || hasTranslatedFile(locale),
 );
-const source = `export const locales = ${JSON.stringify(activeLocales)} as const;\n`;
+const source = `export const locales = [${activeLocales.map((locale) => JSON.stringify(locale)).join(", ")}] as const;\n`;
 
 writeFileSync(outputPath, source);
