@@ -18,7 +18,7 @@ Within each page, the maps are sorted by their ratings before the reweight.
 
 ### 2026
 
-[Monthly Reweight - 4 June 2026](./reweights/2026/June-2026.md)
+[Monthly Reweight - 14 June 2026](./reweights/2026/June-2026.md)
 
 [Monthly Reweight - 10 May 2026](./reweights/2026/May-2026.md)
 
